@@ -1,12 +1,1 @@
-[
-  {
-    "id": "jasno-1",
-    "title": "Jasno 1",
-    "description": "My Jasno 1"
-  },
-    {
-    "id": "jasno-2",
-    "title": "Jasno 2",
-    "description": "My Jasno 2"
-  }
-]
+[{"id":"jasno-1","title":"Jasno 1","description":"My Jasno 1"},{"id":"jasno-2","title":"Jasno 2","description":"My Jasno 2"},{"id":"new-book","title":"My new Book","description":"jo ho"}]
