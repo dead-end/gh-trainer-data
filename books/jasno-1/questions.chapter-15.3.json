@@ -1,0 +1,142 @@
+[
+  {
+    "quest": "zu Ende sein",
+    "answer": "зак**ончиться #=v.\nзак**анчиваться #=uv."
+  },
+  {
+    "quest": "vorn\nvoraus\nvoran\nhier:=# steht bevor",
+    "answer": "вперед**и",
+    "details": "перед #=vor"
+  },
+  {
+    "quest": "bedeuten",
+    "answer": "зн**ачить #=uv."
+  },
+  {
+    "quest": "noch einmal",
+    "answer": "ещё раз"
+  },
+  {
+    "quest": "Aquapark\nErlebnisbad",
+    "answer": "аквап**арк"
+  },
+  {
+    "quest": "anbieten\nvorschlagen",
+    "answer": "предлаг**ать"
+  },
+  {
+    "quest": "(Fußball-) Spiel",
+    "answer": "матч"
+  },
+  {
+    "quest": "Idee",
+    "answer": "ид**ея",
+    "details": "ид**ей #=Gen. Pl."
+  },
+  {
+    "quest": "Spielplan",
+    "answer": "реперту**ар"
+  },
+  {
+    "quest": "frei sein #=kurz",
+    "answer": "своб**оден\nсвоб**одна\nсвоб**одны"
+  },
+  {
+    "quest": "Anfang\nBeginn",
+    "answer": "нач**ало",
+    "details": "начин**ать #=beginnen"
+  },
+  {
+    "quest": "Bis morgen!",
+    "answer": "До з**автра!"
+  },
+  {
+    "quest": "Situation",
+    "answer": "ситу**ация"
+  },
+  {
+    "quest": "Publikum",
+    "answer": "п**ублика"
+  },
+  {
+    "quest": "stattfinden",
+    "answer": "состо**яться\nсосто**ится\nсосто**ятся #=v."
+  },
+  {
+    "quest": "Veranstaltung",
+    "answer": "меропри**ятие",
+    "details": "меропри**ятия #=Nom. Pl."
+  },
+  {
+    "quest": "der größte",
+    "answer": "крупн**ейший",
+    "details": "кр**упный #=groß, bedeutend"
+  },
+  {
+    "quest": "legendär",
+    "answer": "легенд**арный\nлегенд**арная\nлегенд**арное\nлегенд**арные"
+  },
+  {
+    "quest": "Rockgruppe",
+    "answer": "рок-гр**уппа"
+  },
+  {
+    "quest": "Orchester",
+    "answer": "орк**естр"
+  },
+  {
+    "quest": "Kriegsmarine",
+    "answer": "Во**енно-Морск**ой флот",
+    "details": "морск**ой #=Adj. maritim"
+  },
+  {
+    "quest": "Dirigent",
+    "answer": "дирижёр"
+  },
+  {
+    "quest": "Teilnehmer",
+    "answer": "уч**астник",
+    "details": "часть #=Teil"
+  },
+  {
+    "quest": "Kasse",
+    "answer": "к**асса"
+  },
+  {
+    "quest": "reservieren\nbestellen",
+    "answer": "заказ**ать #=v.\nзак**азывать #=uv.",
+    "details": "(я) закаж**у\n(ты) зак**ажешь\n(он/она/оно) зак**ажет\n(мы) закажем\n(вы) закажете\n(они) закажут"
+  },
+  {
+    "quest": "etwas näher",
+    "answer": "побл**иже",
+    "details": "близко #=nah"
+  },
+  {
+    "quest": "ausverkauft",
+    "answer": "аншл**аг"
+  },
+  {
+    "quest": "Parkett",
+    "answer": "парт**ер"
+  },
+  {
+    "quest": "Reihe",
+    "answer": "ряд",
+    "details": "рядом с #=in der Nähe von"
+  },
+  {
+    "quest": "Mitte",
+    "answer": "серед**ина",
+    "details": "среда #=Mittwoch"
+  },
+  {
+    "quest": "nehmen",
+    "answer": "­взять #=v.\nбрать #=.uv",
+    "details": "(я) возьм**у\n(ты) возьмёшь\n(он/она/оно) возьмёт\n(мы) возьмём\n(вы) возьмёте\n(они) возьм**ут"
+  },
+  {
+    "quest": "reservieren",
+    "answer": "резерв**ировать #=uv."
+  }
+]

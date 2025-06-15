@@ -1,0 +1,136 @@
+[
+  {
+    "quest": "tief",
+    "answer": "глуб**окий\nглуб**окая\nглуб**окое\nглуб**окие"
+  },
+  {
+    "quest": "nichtzielgerichtet=# fliegen",
+    "answer": "лет**ать #=uv."
+  },
+  {
+    "quest": "zielgerichtet=# fliegen",
+    "answer": "лет**еть #=uv.\n(я) леч**у\n(ты) летишь\n(он/она/оно) лет**ит\n(мы) летим\n(вы) летите\n(они) лет**ят"
+  },
+  {
+    "quest": "schnell",
+    "answer": "б**ыстрый\nб**ыстрая\nб**ыстрое\nб**ыстрые"
+  },
+  {
+    "quest": "bequem",
+    "answer": "уд**обный\nуд**обная\nуд**обное\nуд**обные"
+  },
+  {
+    "quest": "sich ändern",
+    "answer": "мен**яться #=uv.\n(я) мен**яюсь\n(ты) мен**яешься\n(он/она/оно) мен**яется\n(мы) мен**яемся\n(вы) мен**яетесь\n(они) мен**яются",
+    "details": "изменение #=Veränderung"
+  },
+  {
+    "quest": "Landschaft",
+    "answer": "ландш**афт",
+    "details": "пейз**аж"
+  },
+  {
+    "quest": "Exotik",
+    "answer": "экз**отика"
+  },
+  {
+    "quest": "Tal der Geysire",
+    "answer": "Дол**ина г**ейзеров"
+  },
+  {
+    "quest": "klein",
+    "answer": "м**алый\nм**алая\nм**алое\nм**алые"
+  },
+  {
+    "quest": "Jeep",
+    "answer": "джип"
+  },
+  {
+    "quest": "Hubschrauber",
+    "answer": "вертолёт"
+  },
+  {
+    "quest": "fotografieren",
+    "answer": "сфотограф**ировать #=v.\nфотограф**ировать #=uv."
+  },
+  {
+    "quest": "einladen",
+    "answer": "приглас**ить #=v.\nприглаш**ать #=uv.",
+    "details": "приглашение #=Einladung\n\nприглас**ить #=v.\n(я) приглаш**у\n(ты) приглас**ишь\n(он/она/оно) пригласит\n(мы) пригласим\n(вы) пригласите\n(они) приглас**ят"
+  },
+  {
+    "quest": "Rhein",
+    "answer": "Рейн"
+  },
+  {
+    "quest": "Zugspitze",
+    "answer": "Ц**угшпитце"
+  },
+  {
+    "quest": "Bodensee",
+    "answer": "Б**оденское **озеро"
+  },
+  {
+    "quest": "reisen",
+    "answer": "путеш**ествовать #=uv."
+  },
+  {
+    "quest": "Verkaufsmanager",
+    "answer": "м**енеджер по прод**ажам"
+  },
+  {
+    "quest": "Besprechung",
+    "answer": "совещ**ание"
+  },
+  {
+    "quest": "wegen\nanlässlich",
+    "answer": "по п**оводу #=(+) Gen."
+  },
+  {
+    "quest": "Besuch",
+    "answer": "виз**ит"
+  },
+  {
+    "quest": "eine Zeitlang mit jmdm. sprechen",
+    "answer": "поговор**ить с #=(+) Instr."
+  },
+  {
+    "quest": "verbinden",
+    "answer": "соедин**ять #=uv."
+  },
+  {
+    "quest": "Er ist nicht am Platz.",
+    "answer": "Ег**о нет на м**есте."
+  },
+  {
+    "quest": "etwas ausrichten\netwas mitteilen",
+    "answer": "перед**ать #=v.\nпередавать #=uv.",
+    "details": "передача #=Sendung\n\nперед**ать #=v.\n(я) перед**ам\n(ты) перед**ашь\n(он/она/оно) передаст\n(мы) передадим\n(вы) передадите\n(они) передадут"
+  },
+  {
+    "quest": "es geht um …\nes handelt sich um …",
+    "answer": "речь идёт о #=(+) Akk.\nречь #=die Reden, das Sprechen"
+  },
+  {
+    "quest": "Aufenthaltsprogramm",
+    "answer": "прогр**амма пребыв**ания",
+    "details": "побывать #=eine Zeit lang auf enthalten"
+  },
+  {
+    "quest": "hier: einige Einzelheiten klären",
+    "answer": "уточн**ить н**екоторые дет**али #=v.\nуточнять #=uv."
+  },
+  {
+    "quest": "Detail\nEinzelheit",
+    "answer": "дет**аль #=f"
+  },
+  {
+    "quest": "zurückrufen",
+    "answer": "перезвон**ить #=v.\nперезв**анивать #=uv."
+  },
+  {
+    "quest": "warten",
+    "answer": "подожд**ать #=v. Futur\nждать #=uv.",
+    "details": "подожд**ать #=v. Futur\n(я) подожд**у\n(ты) подождёшь\n(он/она/оно) подождёт\n(мы) подождём\n(вы) подождёте\n(они) подожд**ут"
+  }
+]

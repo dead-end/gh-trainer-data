@@ -1,0 +1,136 @@
+[
+  {
+    "quest": "gründen",
+    "answer": "основ**ать #=v.\nосн**овывать #=uv.\nоснов**атель #m Gründer# "
+  },
+  {
+    "quest": "errichten",
+    "answer": "с**оздать #=v.\nсоздав**ать #=uv."
+  },
+  {
+    "quest": "Mariä-Verkündigungs-Kathedrale",
+    "answer": "Благов**ещенский соб**ор"
+  },
+  {
+    "quest": "lang (räumlich)",
+    "answer": "дл**инный\nдл**инная\nдл**инное\nдл**инные"
+  },
+  {
+    "quest": "breit",
+    "answer": "шир**окий\nшир**окая\nшир**окое\nшир**окие"
+  },
+  {
+    "quest": "annähernd\nungefähr",
+    "answer": "приблиз**ительно"
+  },
+  {
+    "quest": "sich erstrecken",
+    "answer": "тян**уться #=uv.\nт**янется\nт**янутся"
+  },
+  {
+    "quest": "viel weniger",
+    "answer": "намн**ого м**еньше"
+  },
+  {
+    "quest": "dennoch",
+    "answer": "всё же\nже #=bloß, ja, jedoch"
+  },
+  {
+    "quest": "Wolkenkratzer",
+    "answer": "небоскрёб"
+  },
+  {
+    "quest": "hier: hervorheben\netwas markieren, betonen",
+    "answer": "в**ыделить #=v.\nвыдел**ять #=uv.",
+    "details": "делить #=trennen, einteilen\nразделить #=aufteilen"
+  },
+  {
+    "quest": "Entwurf",
+    "answer": "план"
+  },
+  {
+    "quest": "Lage",
+    "answer": "располож**ение",
+    "details": "расположен #=liegen, sich befinden\nсемейное положение #=Familienstand"
+  },
+  {
+    "quest": "geschehen\nsich vollziehen",
+    "answer": "соверш**аться #=uv.\nсоверш**ить путеш**ествие #=v."
+  },
+  {
+    "quest": "gigantisch",
+    "answer": "гиг**антский\nгиг**антская\nгиг**антское\nгиг**антские"
+  },
+  {
+    "quest": "Arsenal",
+    "answer": "арсен**ал"
+  },
+  {
+    "quest": "restaurieren",
+    "answer": "реставр**ировать #=uv."
+  },
+  {
+    "quest": "Ikone",
+    "answer": "ик**она"
+  },
+  {
+    "quest": "Filmstudio",
+    "answer": "киност**удия"
+  },
+  {
+    "quest": "Schokoladenfabrik",
+    "answer": "шокол**адная ф**абрика"
+  },
+  {
+    "quest": "innerhalb dieser Zeit",
+    "answer": "за **это вр**емя"
+  },
+  {
+    "quest": "Nacht-",
+    "answer": "ночн**ой\nночн**ая\nночн**ое\nночн**ые"
+  },
+  {
+    "quest": "sich (einige Zeit) aufhalten",
+    "answer": "побыв**ать #=v.\nбыв**ать #=uv. geschehen, sein, stattfinden",
+    "details": "бывать пробки #=es gibt Stauts"
+  },
+  {
+    "quest": "Eröffnung",
+    "answer": "откр**ытие"
+  },
+  {
+    "quest": "Filmfestival",
+    "answer": "кинофестив**аль #=m"
+  },
+  {
+    "quest": "Regisseur\nRegisseurin",
+    "answer": "режиссёр"
+  },
+  {
+    "quest": "und überhaupt",
+    "answer": "и вообщ**е",
+    "details": "общий #=allgemein, generell, gesamt"
+  },
+  {
+    "quest": "treffen",
+    "answer": "встр**етить\nвстреч**ать #=uv.",
+    "details": "встр**етить\n(я) встр**ечу\n(ты) встр**етишь\n(он/она/оно) встр**етит\n(мы) встр**етим\n(вы) встр**етите\n(они) встр**етят"
+  },
+  {
+    "quest": "Eindruck von",
+    "answer": "впечатл**ение от #=(+) Gen."
+  },
+  {
+    "quest": "fern",
+    "answer": "далёкий\nдалёкая\nдалёкое\nдалёкие",
+    "details": "Дальний Восток #=ferner Osten"
+  },
+  {
+    "quest": "Moskauer",
+    "answer": "москвич\nмосквичи #=Nom. Pl."
+  },
+  {
+    "quest": "lieber Freund #=ironisch",
+    "answer": "друж**ок\nдружк**а #=Gen. Sg."
+  }
+]

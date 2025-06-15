@@ -1,0 +1,157 @@
+[
+  {
+    "quest": "schützen",
+    "answer": "охран**ять #=uv."
+  },
+  {
+    "quest": "unmöglich\nnicht realistisch",
+    "answer": "невозм**ожен\nневозм**ожна\nневозм**ожны",
+    "details": "возможность #=f Möglichkeit"
+  },
+  {
+    "quest": "finanzielle Hilfe",
+    "answer": "фин**ансовая п**омощь #=f"
+  },
+  {
+    "quest": "Information(en)",
+    "answer": "информ**ация"
+  },
+  {
+    "quest": "Handelsfirma",
+    "answer": "комм**ерческая ф**ирма"
+  },
+  {
+    "quest": "Amur-Tiger #=(Sibirischer Tiger)",
+    "answer": "ам**урский тигр"
+  },
+  {
+    "quest": "Tier",
+    "answer": "жив**отное\nжив**отные #=Nom. Pl.\nжив**отных #=Gen. Pl."
+  },
+  {
+    "quest": "alt",
+    "answer": "ст**арый\nст**арая\nст**арое\nст**арые"
+  },
+  {
+    "quest": "Kindheit",
+    "answer": "д**етство"
+  },
+  {
+    "quest": "glücklich",
+    "answer": "счастл**ивый\nсчастл**ивая\nсчастл**ивое\nсчастл**ивые",
+    "details": "счастье #=Glück"
+  },
+  {
+    "quest": "aufwachsen",
+    "answer": "в**ырасти\nв**ырос\nв**ырасла\nв**ырасли #=v."
+  },
+  {
+    "quest": "junge Menschen",
+    "answer": "молодёжь #=f"
+  },
+  {
+    "quest": "Taiga",
+    "answer": "тайг**а"
+  },
+  {
+    "quest": "Eisenbahn",
+    "answer": "жел**езная дор**ога",
+    "details": "дорога #=Weg"
+  },
+  {
+    "quest": "Baikal-Amur-Magistrale (BAM)",
+    "answer": "Байк**ало-Ам**урская магистр**аль (БАМ) #=f"
+  },
+  {
+    "quest": "Romantik",
+    "answer": "ром**антика"
+  },
+  {
+    "quest": "volles Programm",
+    "answer": "по п**олной прогр**амме"
+  },
+  {
+    "quest": "schwer\nhart",
+    "answer": "тяжёлый\nтяжёлая\nтяжёлое\nтяжёлые"
+  },
+  {
+    "quest": "Lebensbedingungen",
+    "answer": "усл**овия ж**изни"
+  },
+  {
+    "quest": "(jemanden) kennenlernen",
+    "answer": "познак**омиться с #=v. (+) Instr.\nзнак**омиться #=uv."
+  },
+  {
+    "quest": "heiraten\nMann und Frau werden",
+    "answer": "пожен**иться v."
+  },
+  {
+    "quest": "beenden",
+    "answer": "зак**ончить",
+    "details": "я зак**ончу\nты зак**ончишь\nон / она / оно зак**ончит\nмы зак**ончим\nвы зак**ончите\nони зак**ончат"
+  },
+  {
+    "quest": "Heimat",
+    "answer": "р**одина"
+  },
+  {
+    "quest": "in Rente gehen",
+    "answer": "в**ыйти\nв**ышел\nв**ышла\nв**ышли на п**енсию #=v.\n- выходить #=uv."
+  },
+  {
+    "quest": "in Rente (sein)",
+    "answer": "на п**енсии"
+  },
+  {
+    "quest": "fortsetzen",
+    "answer": "продолжать #=uv."
+  },
+  {
+    "quest": "Kraft",
+    "answer": "с**ила",
+    "details": "сильный #=stark"
+  },
+  {
+    "quest": "hier:=# alleine",
+    "answer": "од**ин\nодн**а\nодн**и"
+  },
+  {
+    "quest": "sterben",
+    "answer": "умер**еть",
+    "details": "**умер\nумерл**а\n**умерли #=v."
+  },
+  {
+    "quest": "sich sehen",
+    "answer": "в**идеться",
+    "details": "(я) в**ижусь\n(ты) в**идишься\n(он/она/оно) в**идится\n(мы) в**идимся\n(вы) в**идитесь\n(они) в**идятся"
+  },
+  {
+    "quest": "Sehnsucht haben",
+    "answer": "кучать по #=uv., (+) Dat."
+  },
+  {
+    "quest": "(er, sie) lebt / leben",
+    "answer": "жив\nжив**а\nж**ивы"
+  },
+  {
+    "quest": "sein\nseine",
+    "answer": "ег**о"
+  },
+  {
+    "quest": "ihr\nihre",
+    "answer": "её"
+  },
+  {
+    "quest": "ihr\nihre",
+    "answer": "их"
+  },
+  {
+    "quest": "Familienstand",
+    "answer": "сем**ейное полож**ение"
+  },
+  {
+    "quest": "ledig (auf Mann bezogen)",
+    "answer": "не жен**ат"
+  }
+]

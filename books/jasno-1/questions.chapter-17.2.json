@@ -1,0 +1,144 @@
+[
+  {
+    "quest": "brauchen",
+    "answer": "н**ужен\nнужн**а\nнужн**о\nн**ужны"
+  },
+  {
+    "quest": "normal",
+    "answer": "норм**альный\nнорм**альная\nнорм**альное\nнорм**альные"
+  },
+  {
+    "quest": "(zweckgemäß) benutzen",
+    "answer": "п**ользоваться #=uv.",
+    "details": "п**ользоваться\nя п**ользуюсь\nты п**ользуешься\nон/она/оно п**ользуется\nмы п**ользуемся\nвы п**ользуетесь\nони п**ользуются"
+  },
+  {
+    "quest": "Handy",
+    "answer": "моб**ильник"
+  },
+  {
+    "quest": "in vielen Ländern",
+    "answer": "во мн**огих стр**анах"
+  },
+  {
+    "quest": "befreundet sein",
+    "answer": "друж**ить #=uv.",
+    "details": "друж**ить\nЯ друж**у\nТы дружишь\nОн/она/оно др**ужит\nМы дружим\nВы дружите\nОни др**ужат"
+  },
+  {
+    "quest": "soziales Netzwerk",
+    "answer": "соци**альная сеть #=f"
+  },
+  {
+    "quest": "Twitter",
+    "answer": "Тв**иттер"
+  },
+  {
+    "quest": "Onlinezeitung",
+    "answer": "онл**айн-газ**ета"
+  },
+  {
+    "quest": "tatsächlich",
+    "answer": "действ**ительно"
+  },
+  {
+    "quest": "begrüßen",
+    "answer": "приветствовать #=uv."
+  },
+  {
+    "quest": "Rolle",
+    "answer": "роль #=f"
+  },
+  {
+    "quest": "Fashion Blogger",
+    "answer": "фэшн-бл**оггер"
+  },
+  {
+    "quest": "real",
+    "answer": "ре**альный\nре**альная\nре**альное\nре**альные"
+  },
+  {
+    "quest": "fragen",
+    "answer": "спрос**ить #=v.\nспрашивать #=uv.",
+    "details": "спрос**ить\nя спрош**у\nты спросишь\nон / она / оно спр**осит\nмы спросим\nвы спросите\nони спр**осят"
+  },
+  {
+    "quest": "jmdn. kennen\nmit jmdm. bekannt sein\n- kurz",
+    "answer": "знаком\nзнакома\nзнакомы"
+  },
+  {
+    "quest": "Mitschüler\nKlassenkamerad",
+    "answer": "однокл**ассник"
+  },
+  {
+    "quest": "Ding\nSache",
+    "answer": "вещь #=f"
+  },
+  {
+    "quest": "suchen",
+    "answer": "поиск**ать #=v.\nискать #=uv.",
+    "details": "поиск**ать\nЯ поищ**у\nТы по**ищешь\nОн/она/оно поищет\nМы поищем\nВы поищете\nОни по**ищут"
+  },
+  {
+    "quest": "mit jmdm. Bekanntschaft schließen\njmdn. kennenlernen",
+    "answer": "знак**омиться с #=uv. (+) Instr.",
+    "details": "знак**омиться\nя знак**омлюсь\nты знак**омишься\nон / она / оно знакомится\nмы знакомимся\nвы знакомитесь\nони знакомятся"
+  },
+  {
+    "quest": "enttäuschen",
+    "answer": "разочар**овывать #=uv.",
+    "details": "жалеть #=uv. bereuen"
+  },
+  {
+    "quest": "auf eine Homepage gehen",
+    "answer": "заход**ить на сайт #=uv."
+  },
+  {
+    "quest": "mit jmdm. kommunizieren\nverkehren",
+    "answer": "пообщ**аться с #=v.\nобщаться #=uv. (+) Instr."
+  },
+  {
+    "quest": "zusenden",
+    "answer": "присылать #=uv."
+  },
+  {
+    "quest": "(be)grüßen\nsich begrüßen",
+    "answer": "здор**оваться с #=uv. (+) Instr.",
+    "details": "здор**оваться\nЯ здор**оваюсь\nТы здор**оваешься\nОн/она/оно здоровается\nМы здороваемся\nВы здороваетесь\nОни здороваются"
+  },
+  {
+    "quest": "jünger\njüngste",
+    "answer": "мл**адший\nмл**адшая\nмл**адшее\nмл**адшие",
+    "details": "молодой #=jung"
+  },
+  {
+    "quest": "Nachbar",
+    "answer": "сос**ед\nсос**еди #=Nom. Pl.\nсос**едей #=Gen. Pl."
+  },
+  {
+    "quest": "wichtig #=kurz",
+    "answer": "в**ажен\nважн**а\nважн**о\nв**ажны"
+  },
+  {
+    "quest": "Inhaber\nBesitzer",
+    "answer": "влад**елец",
+    "details": "влад**ельца #=Gen. Sg."
+  },
+  {
+    "quest": "Computer #=ugs.",
+    "answer": "комп"
+  },
+  {
+    "quest": "hier:=# Unternehmen\nGeschäft",
+    "answer": "д**ело"
+  },
+  {
+    "quest": "Startkapital",
+    "answer": "ст**артовый капит**ал"
+  },
+  {
+    "quest": "aufteilen",
+    "answer": "раздел**ить #=v.",
+    "details": "раздел**ить\nЯ раздел**ю\nТы разд**елишь\nОн/она/оно разделит\nМы разделим\nВы разделите\nОни разд**елят\n- делить #=trennen, einteilen"
+  }
+]

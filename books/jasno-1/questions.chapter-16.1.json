@@ -1,0 +1,162 @@
+[
+  {
+    "quest": "hier:=# Studium\ndie Lehre\ndas Lernen",
+    "answer": "учёба"
+  },
+  {
+    "quest": "Dokument",
+    "answer": "докум**ент"
+  },
+  {
+    "quest": "die Aufnahme­ prüfungen an der Hochschule ablegen\nimmatrikuliert werden",
+    "answer": "поступать в университ**ет #=uv.",
+    "details": "поступать #=uv.\nпоступ**ить #=v."
+  },
+  {
+    "quest": "Stipendium",
+    "answer": "стип**ендия"
+  },
+  {
+    "quest": "Diplom",
+    "answer": "дипл**ом"
+  },
+  {
+    "quest": "Hörsaal",
+    "answer": "аудит**ория"
+  },
+  {
+    "quest": "Diplomarbeit",
+    "answer": "дипл**омная раб**ота"
+  },
+  {
+    "quest": "Studentenausweis",
+    "answer": "студ**енческий бил**ет"
+  },
+  {
+    "quest": "Fernöstliche Föderale Universität",
+    "answer": "Дальневост**очный Федер**альный университ**ет",
+    "details": "дальнейший #=weiter"
+  },
+  {
+    "quest": "Biomedizin",
+    "answer": "биомедиц**ина"
+  },
+  {
+    "quest": "Kurs\nhier:=# Studienjahr",
+    "answer": "курс"
+  },
+  {
+    "quest": "Zukunftspläne",
+    "answer": "пл**аны на буд**ущее"
+  },
+  {
+    "quest": "Zukunft",
+    "answer": "б**удущее"
+  },
+  {
+    "quest": "kommen\nankommen",
+    "answer": "при**ехать #=v.\nприезж**ать #=uv.",
+    "details": "ехать #=fahren\nпоехать #=(hin-) fahren"
+  },
+  {
+    "quest": "Volontär",
+    "answer": "волонтёр"
+  },
+  {
+    "quest": "geboren werden\nzur Welt kommen",
+    "answer": "род**иться",
+    "details": "я / ты / он #(m)# родился\nя / ты / она #(f)# родилась\nоно родилось\nмы / вы / они родились"
+  },
+  {
+    "quest": "er (sie) ist, sie sind in die Schule gekommen",
+    "answer": "пошл**а, пошёл, пошл**и в школу #=v."
+  },
+  {
+    "quest": "Biologie",
+    "answer": "биол**огия"
+  },
+  {
+    "quest": "Prüfungen ablegen",
+    "answer": "сдать экзамены #=v.",
+    "details": "я сдам\nты сдашь\nон / она / оно сдаст\nмы сдадим\nвы сдадите\nони сдадут\n- сдавать #=uv.\n- дать #=geben"
+  },
+  {
+    "quest": "geraten\ngelangen",
+    "answer": "поп**асть #=v.\nпопад**ать #=uv.",
+    "details": "Я попад**у\nТы попадёшь\nОн / она /оно попадёт\nМы попадём\nВы попадёте\nОни попад**ут"
+  },
+  {
+    "quest": "Verwandte",
+    "answer": "р**одственник"
+  },
+  {
+    "quest": "zufällig",
+    "answer": "случ**айно"
+  },
+  {
+    "quest": "finden",
+    "answer": "найти #=v.\nнаходить #=uv.",
+    "details": "я найду\nты найдёшь\nон / она / оно найдёт\nмы найдём\nвы найдёте\nони найдут"
+  },
+  {
+    "quest": "Handels-",
+    "answer": "торг**овый\nторг**овая\nторг**овое\nторг**овые",
+    "details": "торговый центр #=Einkaufszentrum"
+  },
+  {
+    "quest": "Tante",
+    "answer": "тётя"
+  },
+  {
+    "quest": "Biologe\nBiologin",
+    "answer": "би**олог"
+  },
+  {
+    "quest": "hören\nzuhören",
+    "answer": "посл**ушать #=v.\nсл**ушать #=uv."
+  },
+  {
+    "quest": "außerdem",
+    "answer": "кр**оме тог**о",
+    "details": "кроме#\n- außer\n- ausgenommen#"
+  },
+  {
+    "quest": "(an) teilnehmen",
+    "answer": "уч**аствовать в #=(+) Präp."
+  },
+  {
+    "quest": "Schul-",
+    "answer": "шк**ольный\nшк**ольная\nшк**ольное\nшк**ольные"
+  },
+  {
+    "quest": "Wahl",
+    "answer": "в**ыбор",
+    "details": "в**ыбрать #=wählen"
+  },
+  {
+    "quest": "abschließen\nabsolvieren",
+    "answer": "ок**ончить",
+    "details": "я ок**ончу\nты ок**ончишь\nон / она / оно ок**ончит\nмы ок**ончим\nвы ок**ончите\nони ок**ончат"
+  },
+  {
+    "quest": "durchführen\n- etwas verbringen\n- jemanden / etwas führen",
+    "answer": "провод**ить",
+    "details": "я провожу\nты проводишь\nон / она / оно проводит\nмы проводим\nвы проводите\nони проводят\n- водить #=jemanden mitnehmen, etwas fahren\n- провести #=v."
+  },
+  {
+    "quest": "kinderreiche Familie",
+    "answer": "многод**етная семь**я"
+  },
+  {
+    "quest": "Patient",
+    "answer": "паци**ент"
+  },
+  {
+    "quest": "auch\nebenso",
+    "answer": "также"
+  },
+  {
+    "quest": "Aktion",
+    "answer": "**акция"
+  }
+]

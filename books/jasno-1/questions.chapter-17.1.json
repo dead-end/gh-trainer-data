@@ -1,0 +1,144 @@
+[
+  {
+    "quest": "Welt\nFrieden",
+    "answer": "мир"
+  },
+  {
+    "quest": "Umfrage",
+    "answer": "опр**ос"
+  },
+  {
+    "quest": "erfahren",
+    "answer": "узн**ать #=v.\nузнав**ать #=uv.",
+    "details": "узн**ать\nя узн**аю\nты узн**аешь\nон / она / оно узн**ает\nмы узн**аем\nвы узн**аете\nони уз**нают"
+  },
+  {
+    "quest": "interessant",
+    "answer": "интер**есен\nинтер**есна\nинтер**есно\nинтер**есны"
+  },
+  {
+    "quest": "Neuigkeit\nNachrichten",
+    "answer": "н**овость #=f"
+  },
+  {
+    "quest": "Ergebnis\nBilanz",
+    "answer": "ит**ог"
+  },
+  {
+    "quest": "Kochsendung",
+    "answer": "кулин**арная прогр**амма"
+  },
+  {
+    "quest": "Sendung",
+    "answer": "перед**ача"
+  },
+  {
+    "quest": "vorziehen\nden Vorzug geben",
+    "answer": "предпочит**ать #=uv."
+  },
+  {
+    "quest": "Ökonom",
+    "answer": "эконом**ист"
+  },
+  {
+    "quest": "Actionfilm",
+    "answer": "боев**ик"
+  },
+  {
+    "quest": "Thriller",
+    "answer": "тр**иллер"
+  },
+  {
+    "quest": "ständig\nimmer wieder",
+    "answer": "посто**янно",
+    "details": "постоянная работа #=hier: unbefristete Arbeit"
+  },
+  {
+    "quest": "einschalten",
+    "answer": "включ**ать #=uv.",
+    "details": "выключ**ать #=ausschalten"
+  },
+  {
+    "quest": "Wettervorhersage",
+    "answer": "прогн**оз пог**оды"
+  },
+  {
+    "quest": "Ereignis",
+    "answer": "соб**ытие"
+  },
+  {
+    "quest": "Zeichentrickfilm",
+    "answer": "мультф**ильм"
+  },
+  {
+    "quest": "Meinung",
+    "answer": "мн**ение"
+  },
+  {
+    "quest": "Vorschlag",
+    "answer": "предлож**ение",
+    "details": "#=vorschlagen\n- предложить\n- предлагать"
+  },
+  {
+    "quest": "Raum",
+    "answer": "помещ**ение"
+  },
+  {
+    "quest": "Kommunikation\nUmgang",
+    "answer": "общ**ение",
+    "details": "сообщение #=Bericht, Beitrag"
+  },
+  {
+    "quest": "Fernsehen",
+    "answer": "телевидение"
+  },
+  {
+    "quest": "Fernsehturm",
+    "answer": "телевизи**онная б**ашня\nб**ашен #=Gen. Pl."
+  },
+  {
+    "quest": "Höhe",
+    "answer": "высот**а"
+  },
+  {
+    "quest": "Meter",
+    "answer": "метр"
+  },
+  {
+    "quest": "hier:=# stattfinden\naufhören\nvergehen - verging, vergangen",
+    "answer": "проход**ить #=uv."
+  },
+  {
+    "quest": "Schauspiel\nAufführung",
+    "answer": "спект**акль #=m"
+  },
+  {
+    "quest": "Seminar",
+    "answer": "семин**ар"
+  },
+  {
+    "quest": "Exkursion\nAusflug\nFührung",
+    "answer": "экск**урсия"
+  },
+  {
+    "quest": "ungewöhnlich",
+    "answer": "необ**ычный\nнеоб**ычная\nнеоб**ычное\nнеоб**ычные"
+  },
+  {
+    "quest": "Tradition",
+    "answer": "трад**иция"
+  },
+  {
+    "quest": "ausländisch\nAuslands-",
+    "answer": "заруб**ежный\nзаруб**ежная\nзаруб**ежное\nзаруб**ежные"
+  },
+  {
+    "quest": "Liga",
+    "answer": "л**ига"
+  },
+  {
+    "quest": "kommunizieren\nverkehren mit",
+    "answer": "общ**аться с #=(+) Instr. uv.",
+    "details": "общ**аться\nя общаюсь\nты общаешься\nон / она / оно общается\nмы общаемся\nвы общаетесь\nони общаются"
+  }
+]

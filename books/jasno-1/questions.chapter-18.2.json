@@ -1,0 +1,139 @@
+[
+  {
+    "quest": "mehr",
+    "answer": "б**олее"
+  },
+  {
+    "quest": "einfach",
+    "answer": "прост**ой\nпрост**ая\nпрост**ое\nпрост**ые"
+  },
+  {
+    "quest": "weniger",
+    "answer": "м**енее"
+  },
+  {
+    "quest": "abhängen von",
+    "answer": "зав**исеть от #=uv. (+) Gen."
+  },
+  {
+    "quest": "hier: einsteigen\nsetzen",
+    "answer": "сад**иться #=uv.",
+    "details": "(я) саж**усь\n(ты) сад**ишься\n(он/она/оно) садится\n(мы) садимся\n(вы) садитесь\n(они) садятся"
+  },
+  {
+    "quest": "Tretjakow-Galerie",
+    "answer": "Третьяк**овская галер**ея"
+  },
+  {
+    "quest": "Geist",
+    "answer": "дух"
+  },
+  {
+    "quest": "helfen",
+    "answer": "пом**очь #=v.\nпомогать #=uv.",
+    "details": "пом**очь #=v.\n(я) помог**у\n(ты) поможешь\n(он/она/оно) поможет\n(мы) поможем\n(вы) поможете\n(они) помогут"
+  },
+  {
+    "quest": "hier: =#übernachten\nanhalten\nhalten",
+    "answer": "остановиться #=v.\nостанавливаться #=uv.",
+    "details": "ночев**ать #=übernachten\nостановка #=Haltestelle\n\nостановиться #=v.\n(я) остановлюсь\n(ты) остановишься\n(он/она/оно) остановится\n(мы) остановимся\n(вы) остановитесь\n(они) остановятся"
+  },
+  {
+    "quest": "vorschlagen",
+    "answer": "предлож**ить #=v.\nпредлагать #=uv.",
+    "details": "предлож**ить #=v.\n(я) предлож**у\n(ты) предл**ожишь\n(он/она/оно) предл**ожит\n(мы) предложим\n(вы) предложите\n(они) предложат"
+  },
+  {
+    "quest": "dauern",
+    "answer": "дл**иться #=uv.",
+    "details": "длинный #=lang"
+  },
+  {
+    "quest": "ausführlich",
+    "answer": "подр**обно"
+  },
+  {
+    "quest": "ermöglichen",
+    "answer": "позв**олить #=v.\nпозволять #=uv.",
+    "details": "позв**олить #=v.\n(я) позв**олю\n(ты) позв**олишь\n(он/она/оно) позволит\n(мы) позволим\n(вы) позволите\n(они) позволят"
+  },
+  {
+    "quest": "zum ersten Mal",
+    "answer": "вперв**ые\nв первый раз"
+  },
+  {
+    "quest": "in der Chronik erwähnen",
+    "answer": "упомин**ать в л**етописях #=uv."
+  },
+  {
+    "quest": "Chronik\nAnnalen",
+    "answer": "л**етопись #=f"
+  },
+  {
+    "quest": "traditionell",
+    "answer": "традици**онно "
+  },
+  {
+    "quest": "Großfürst",
+    "answer": "с**уздальский князь #=m"
+  },
+  {
+    "quest": "gelten als",
+    "answer": "счит**аться #=uv. (+) Instr.\nсчитать #=glauben, meinen"
+  },
+  {
+    "quest": "Bildhauer",
+    "answer": "ск**ульптор"
+  },
+  {
+    "quest": "Ensemble",
+    "answer": "анс**амбль #=m"
+  },
+  {
+    "quest": "alt\naltertümlich",
+    "answer": "др**евний\nдр**евняя\nдр**евнее\nдр**евние"
+  },
+  {
+    "quest": "entlang",
+    "answer": "вдоль #=(+) Gen."
+  },
+  {
+    "quest": "Mauer\nWand",
+    "answer": "стен**а\nст**ены #=Nom. Pl."
+  },
+  {
+    "quest": "Haupt-",
+    "answer": "гл**авный\nгл**авная\nгл**авное\nгл**авные"
+  },
+  {
+    "quest": "an einigen Tagen",
+    "answer": "в отд**ельные дни",
+    "details": "отдельный #=getrennt, einzeln"
+  },
+  {
+    "quest": "Gottesdienst",
+    "answer": "богослуж**ение\nслужение #=das Dienen"
+  },
+  {
+    "quest": "Glocke",
+    "answer": "к**олокол\nколокол**а #=Nom. Pl."
+  },
+  {
+    "quest": "Halt machen",
+    "answer": "сд**елать остан**овку #=v."
+  },
+  {
+    "quest": "fortsetzen\nfortfahren",
+    "answer": "прод**олжить #=v.\nпродолжать #uv.",
+    "details": "- долго\n- долгий #=lang\n\nпрод**олжить #=v.\n(я) прод**олжу\n(ты) прод**олжишь\n(он/она/оно) продолжит\n(мы) продолжим\n(вы) продолжите\n(они) продолжат"
+  },
+  {
+    "quest": "Graduationswort vor Adjektiven zur Bildung des Superlativs",
+    "answer": "с**амый\nс**амая\nс**амое\nс**амые"
+  },
+  {
+    "quest": "sein",
+    "answer": "явл**яться #=uv. (+) Instr.",
+    "details": "(я) явл**яюсь\n(ты) являешься\n(он/она/оно) является\n(мы) являемся\n(вы) являетесь\n(они) являются"
+  }
+]

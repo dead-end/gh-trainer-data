@@ -1,0 +1,141 @@
+[
+  {
+    "quest": "Spaziergang",
+    "answer": "прог**улка"
+  },
+  {
+    "quest": "vollständig\nkomplett\ndick\nkorpulent\nvoll",
+    "answer": "п**олный\nп**олная\nп**олное\nп**олные"
+  },
+  {
+    "quest": "Kompromiss",
+    "answer": "компром**исс"
+  },
+  {
+    "quest": "Zuhörer",
+    "answer": "сл**ушатель #=m."
+  },
+  {
+    "quest": "verliebt",
+    "answer": "влюблённый в #=+Akk.\nвлюблённая\nвлюблённое\nвлюблённые\n\nвлюблён\nвлюблен**а \nвлюблен**ы"
+  },
+  {
+    "quest": "Erstklässler",
+    "answer": "первокл**ассник"
+  },
+  {
+    "quest": "fehlen\nmangeln",
+    "answer": "не хват**ать #=uv. unpers. +Gen.\nне хват**ить #=v."
+  },
+  {
+    "quest": "Energie",
+    "answer": "эн**ергия"
+  },
+  {
+    "quest": "im Homeoffice arbeiten",
+    "answer": "удалённо раб**отать",
+    "details": "удалённый #=abgesetzt, remote"
+  },
+  {
+    "quest": "Fernunterricht",
+    "answer": "заним**аться онлайн #=uv.\nзан**яться онлайн #=v."
+  },
+  {
+    "quest": "Pflicht",
+    "answer": "об**язанность #=f.",
+    "details": "обязательно #=unbedingt"
+  },
+  {
+    "quest": "Und es hat geklappt!\nUnd es ging seinen Gang!",
+    "answer": "И дело пошло!",
+    "details": "пойти #=v. gehen"
+  },
+  {
+    "quest": "weiter\nkünftig",
+    "answer": "дальн**ейший\nдальн**ейшая\nдальн**ейшее\nдальн**ейшие",
+    "details": "далёкий, далек**о #=weit\nд**альше #=weiter"
+  },
+  {
+    "quest": "aussprechen\nsagen",
+    "answer": "произнос**ить #=uv.\nпроизнест**и #=v.",
+    "details": "носить #=tragen"
+  },
+  {
+    "quest": "im Namen von",
+    "answer": "от **имени #=+ Gen."
+  },
+  {
+    "quest": "langjährig",
+    "answer": "многол**етний\nмногол**етная\nмногол**етное\nмногол**етние"
+  },
+  {
+    "quest": "stabil",
+    "answer": "стаб**ильный\nстаб**ильная\nстаб**ильное\nстаб**ильные"
+  },
+  {
+    "quest": "Dame",
+    "answer": "д**ама"
+  },
+  {
+    "quest": "multinational",
+    "answer": "многонацион**альный\nмногонацион**альная\nмногонацион**альное\nмногонацион**альные"
+  },
+  {
+    "quest": "Beratung",
+    "answer": "консульт**ация"
+  },
+  {
+    "quest": "Flitterwochen",
+    "answer": "медовый м**есяц",
+    "details": "медовый #=honig-"
+  },
+  {
+    "quest": "Junggesellen Abend",
+    "answer": "мальч**ишник"
+  },
+  {
+    "quest": "Junggesellinnen Abend",
+    "answer": "дев**ичник"
+  },
+  {
+    "quest": "hier=# Blumenstrauß",
+    "answer": "бук**ет"
+  },
+  {
+    "quest": "Limousine",
+    "answer": "лимуз**ин"
+  },
+  {
+    "quest": "Videoaufnahmen",
+    "answer": "видеосъёмка",
+    "details": "съёмка #=Aufnahme"
+  },
+  {
+    "quest": "Folklore-",
+    "answer": "фолькл**орный\nфолькл**орная\nфолькл**орное\nфолькл**орные"
+  },
+  {
+    "quest": "Drehbuch \nPlan",
+    "answer": "сцен**арий"
+  },
+  {
+    "quest": "orthodox",
+    "answer": "правосл**авный\nправосл**авная\nправосл**авное\nправосл**авные"
+  },
+  {
+    "quest": "katholisch",
+    "answer": "катол**ический\nкатол**ическая\nкатол**ическое\nкатол**ические"
+  },
+  {
+    "quest": "lutherisch",
+    "answer": "лютер**анский\nлютер**анская\nлютер**анское\nлютер**анские"
+  },
+  {
+    "quest": "Moschee",
+    "answer": "меч**еть #=f."
+  },
+  {
+    "quest": "Synagoge",
+    "answer": "синаг**ога"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "quest": "(ab) schließen",
+    "answer": "заключ**ить #=v.\nзаключ**ать #=uv."
+  },
+  {
+    "quest": "Ehe\nLebenspartnerschaft",
+    "answer": "брак",
+    "details": "брак заключ**ить c #=+ Inst.\n#=eine Ehe schließen"
+  },
+  {
+    "quest": "Scheidung",
+    "answer": "разв**од"
+  },
+  {
+    "quest": "heiraten (auf den Mann bezogen)",
+    "answer": "жен**иться на #=v. / uv.",
+    "details": "(я) женюсь\n(ты) женишься\n(он/она/оно) женится\n(мы) женимся\n(вы) женитесь\n(они) женятся"
+  },
+  {
+    "quest": "heiraten (auf Frau bezogen)",
+    "answer": "в**ыйти з**амуж #=v.\nвыход**ить з**амуж #=uv."
+  },
+  {
+    "quest": "Hochzeit",
+    "answer": "св**адьба",
+    "details": "свадеб #=Gen. Pl."
+  },
+  {
+    "quest": "sich scheiden lassen",
+    "answer": "развес**ить с #=+ Inst. v.\nразвод**иться с #=uv.",
+    "details": "(я) разведусь\n(ты) разведёшься\n(он/она/оно) разведётся\n(мы) разведёмся\n(вы) разведётесь\n(они) разведутся\n\n(я) развожусь\n(ты) разводишься\n(он/она/оно) разводится\n(мы) разводимся\n(вы) разводитесь\n(они) разводятся"
+  },
+  {
+    "quest": "Bräutigam",
+    "answer": "жен**их",
+    "details": "жених**и #=Pl."
+  },
+  {
+    "quest": "erziehen\ngroßziehen",
+    "answer": "восп**итывать #=uv.\nвоспит**ать #=v.",
+    "details": "восп**итывать дет**ей\nвоспитание #=Erziehung"
+  },
+  {
+    "quest": "verheiratet (auf Frau bezogen)",
+    "answer": "з**амужем за #=Inst."
+  },
+  {
+    "quest": "Braut",
+    "answer": "нев**еста"
+  },
+  {
+    "quest": "standesamtliche Trauung",
+    "answer": "регистр**ация бр**ака"
+  },
+  {
+    "quest": "hier=# einen Heiratsantrag machen",
+    "answer": "сд**елать предлож**ение",
+    "details": "vorschlagen, anbieten=#\nпредложить\nпредлагать"
+  },
+  {
+    "quest": "sich verlieben",
+    "answer": "влюб**иться в #=v. + Akk.\nвлюбл**яться #=uv.",
+    "details": "влюб**иться \n(я) влюблюсь\n(ты) влюбишься\n(он/она/оно) влюбится\n(мы) влюбимся\n(вы) влюбитесь\n(они) влюбятся"
+  },
+  {
+    "quest": "hier=# eine Ehe registrieren \nsich standesamtlich trauen lassen",
+    "answer": "регистр**ироваться #=uv.\nзарегистр**ироваться #=v."
+  },
+  {
+    "quest": "verheiratet (auf einen Mann bezogen)",
+    "answer": "жен**ат на #=+ Prä."
+  },
+  {
+    "quest": "gründen\nerschafen",
+    "answer": "созд**ать #=v.\nсоздав**ать #=uv.",
+    "details": "создав**ать семь**ю\n\n(я) создам\n(ты) создашь\n(он/она/оно) создаст\n(мы) создадим\n(вы) создадите\n(они) создадут"
+  },
+  {
+    "quest": "Onkel",
+    "answer": "д**ядя #=m.",
+    "details": "дяди #=Gen. Sg.\nдяди #=Nom. Pl.\nдядей #=Gen. Pl."
+  },
+  {
+    "quest": "Nichte",
+    "answer": "плем**янница"
+  },
+  {
+    "quest": "Neffe",
+    "answer": "плем**янник"
+  },
+  {
+    "quest": "hier=# (fester) Freund",
+    "answer": "парень #=m.",
+    "details": "парня #=Gen. Sg.\nпарни #=Nom. Pl.\nпарней #=Gen. Pl."
+  },
+  {
+    "quest": "Gefühl",
+    "answer": "чувство",
+    "details": "чувствовать себя #=sich fühlen"
+  },
+  {
+    "quest": "Verstand\nVernunft",
+    "answer": "ум",
+    "details": "умник"
+  },
+  {
+    "quest": "eingefleischter Junggeselle",
+    "answer": "убеждённый холост**як",
+    "details": "убеждённый #=sicher, überzeugt"
+  },
+  {
+    "quest": "sich gewöhnen an \ngewohnt sein",
+    "answer": "привыкнуть к #=+ Dat. v.\nпривыкать к #=uv.",
+    "details": "привыкнуть\n(я) привыкну\n(ты) привыкнешь\n(он/она/оно) привыкнет\n(мы) привыкнем\n(вы) привыкнете\n(они) привыкнут"
+  },
+  {
+    "quest": "Freiheit",
+    "answer": "своб**ода"
+  },
+  {
+    "quest": "Liebe",
+    "answer": "люб**овь #=f.",
+    "details": "любви #=Gen. Sg."
+  },
+  {
+    "quest": "Liebe auf den ersten Blick",
+    "answer": "люб**овь с п**ервого взгл**яда",
+    "details": "на ... взгляд #=aus … Sicht"
+  },
+  {
+    "quest": "vertrauen",
+    "answer": "доверять #=uv. + Dat.\nдоверить #=v."
+  },
+  {
+    "quest": "achten\nrespektieren",
+    "answer": "уваж**ать #=uv.",
+    "details": "уважаемые пассажиры"
+  },
+  {
+    "quest": "Es ist schon 3 Jahre her.",
+    "answer": "Вот уж**е три г**ода."
+  },
+  {
+    "quest": "heiraten",
+    "answer": "пожен**иться #=v."
+  },
+  {
+    "quest": "(über)prüfen\ntesten",
+    "answer": "пров**ерить #=v.\nпровер**ять #=uv."
+  },
+  {
+    "quest": "sich (zu jmdm./etw.) verhalten\nsich (auf jmdn./etw.) beziehen",
+    "answer": "относиться к #=+Dat. uv.\nотнестись к #=v.",
+    "details": "относиться\n(я) отношусь\n(ты) относишься\n(он/она/оно) относится\n(мы) относимся\n(вы) относитесь\n(они) относятся\n\nотнестись\n(я) отнесусь\n(ты) отнесёшься\n(он/она/оно) отнесётся\n(мы) отнесёмся\n(вы) отнесётесь\n(они) отнесутся"
+  }
+]

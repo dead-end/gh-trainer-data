@@ -1,0 +1,140 @@
+[
+  {
+    "quest": "kommen\nankommen",
+    "answer": "приех**ать #=v.\nприезж**ать #=uv."
+  },
+  {
+    "quest": "eine Reise machen\nreisen",
+    "answer": "соверш**ить путеш**ествие #=v.\nсовершать #=uv.\nсоверш**ить #=etw. machen",
+    "details": "соверш**ить\n(я) совершаю\n(ты) совершаешь\n(он/она/оно) совершает\n(мы) совершаем\n(вы) совершаете\n(они) совершают"
+  },
+  {
+    "quest": "Bord",
+    "answer": "борт\nна борту #=Präp. Sg."
+  },
+  {
+    "quest": "Motorschiff",
+    "answer": "теплох**од",
+    "details": "тепло #=die Wärme\nход #=die Fahrt, der Gang"
+  },
+  {
+    "quest": "hier:=# Schifffahrt\nSpaziergang\nTour",
+    "answer": "прог**улка\nпрог**улок #=Gen. Pl."
+  },
+  {
+    "quest": "hier:=# Art und Weise",
+    "answer": "сп**особ"
+  },
+  {
+    "quest": "genießen",
+    "answer": "наслад**иться #v.# (+) Instr.\nнаслажд**аться #=uv.",
+    "details": "наслад**иться\n(я) наслажусь\n(ты) насладишься\n(он/она/оно) насладится\n(мы) насладимся\n(вы) насладитесь\n(они) насладятся"
+  },
+  {
+    "quest": "Schönheit",
+    "answer": "красот**а"
+  },
+  {
+    "quest": "hier:=# Ambiente",
+    "answer": "атмосф**ера"
+  },
+  {
+    "quest": "Basilius-Kathedrale",
+    "answer": "Храм Вас**илия Блаж**енного"
+  },
+  {
+    "quest": "Große Steinbrücke (Moskau)",
+    "answer": "Больш**ой К**аменный мост"
+  },
+  {
+    "quest": "retten",
+    "answer": "спасти"
+  },
+  {
+    "quest": "Zentralpark",
+    "answer": "Центр**альный парк"
+  },
+  {
+    "quest": "Sperlingsberge",
+    "answer": "Воробьёвы г**оры"
+  },
+  {
+    "quest": "hier:=# Luschniki Stadion",
+    "answer": "Лужник**и"
+  },
+  {
+    "quest": "aussehen",
+    "answer": "в**ыглядеть #=uv.",
+    "details": "на ... взгляд #=aus … Sicht\n\n(я) в**ыгляжу\n(ты) выглядишь\n(он/она/оно) выглядит\n(мы) выглядим\n(вы) выглядите\n(они) выглядят"
+  },
+  {
+    "quest": "anders",
+    "answer": "ин**аче"
+  },
+  {
+    "quest": "Fracht",
+    "answer": "фрахт",
+    "details": "груз"
+  },
+  {
+    "quest": "Preis",
+    "answer": "ст**оимость #=f"
+  },
+  {
+    "quest": "Person",
+    "answer": "перс**она"
+  },
+  {
+    "quest": "Reederei",
+    "answer": "судох**одная комп**ания",
+    "details": "судно #=Schiff"
+  },
+  {
+    "quest": "eine Zeitlang spazieren gehen",
+    "answer": "погул**ять #=v."
+  },
+  {
+    "quest": " Samoskworetschje (alter Stadtteil Moskaus)",
+    "answer": "Замосквор**ечье"
+  },
+  {
+    "quest": "Luftfahrt",
+    "answer": "авиация"
+  },
+  {
+    "quest": "Radiohörerin",
+    "answer": "радиосл**ушательница"
+  },
+  {
+    "quest": "sich orientieren",
+    "answer": "ориент**ироваться #=uv."
+  },
+  {
+    "quest": " Stadtrundfahrt mit dem Bus",
+    "answer": "авт**обусная экск**урсия"
+  },
+  {
+    "quest": "hier: einsteigen in\nsich setzen",
+    "answer": "сесть на #=v. (+) Akk.\nсадиться на #=uv.",
+    "details": "(я) с**яду\n(ты) сядешь\n(он/она/оно) сядет\n(мы) сядем\n(вы) сядете\n(они) сядут"
+  },
+  {
+    "quest": "Stadtrundfahrt",
+    "answer": "обз**орная экск**урсия",
+    "details": "обзорный #=Übersichts-"
+  },
+  {
+    "quest": "um … herum",
+    "answer": "вокр**уг #=(+) Gen.",
+    "details": "круг #=Kreis"
+  },
+  {
+    "quest": "nach draußen gehen\naussteigen",
+    "answer": "выход**ить #=uv.\nвыйти #=v.",
+    "details": "(я) выхожу\n(ты) выходишь\n(он/она/оно) выходит\n(мы) выходим\n(вы) выходите\n(они) выходят"
+  },
+  {
+    "quest": "weiter",
+    "answer": "д**альше"
+  }
+]

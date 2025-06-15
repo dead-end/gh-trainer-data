@@ -1,0 +1,145 @@
+[
+  {
+    "quest": "Berufsberatung",
+    "answer": "профориент**ация"
+  },
+  {
+    "quest": "Collage",
+    "answer": "к**олледж"
+  },
+  {
+    "quest": "höherer / höchster",
+    "answer": "в**ысший\nв**ысшая\nв**ысшее\nв**ысшие",
+    "details": "в**ысшее образов**ание #=Hochschulbildung\nвыс**окий #=hoch"
+  },
+  {
+    "quest": "Mittlere Reife",
+    "answer": "ср**еднее образов**ание"
+  },
+  {
+    "quest": "Schul-\nUnterrichts-",
+    "answer": "уч**ебный\nучебная\nучебное\nучебные",
+    "details": "уч**ебный год #=Schuljahr"
+  },
+  {
+    "quest": "gefragter Beruf",
+    "answer": "востр**ебованная проф**ессия",
+    "details": "требование #=Anforderung"
+  },
+  {
+    "quest": "Erzieherin",
+    "answer": "воспит**ательница"
+  },
+  {
+    "quest": "Mittel-\nmittlere",
+    "answer": "ср**едний\nср**едняя\nср**еднее\nср**едние",
+    "details": "средняя школа #=Mittelschule"
+  },
+  {
+    "quest": "Anstalt\nEinrichtung",
+    "answer": "завед**ение",
+    "details": "уч**ебное завед**ение #=Lehranstalt"
+  },
+  {
+    "quest": "Vorschul-",
+    "answer": "дошк**ольный\nдошк**ольная\nдошк**ольное\nдошк**ольные"
+  },
+  {
+    "quest": "Unterricht\nAusbildung",
+    "answer": "обуч**ение",
+    "details": "дошкольное обуч**ение"
+  },
+  {
+    "quest": "Grundschule",
+    "answer": "нач**альная шк**ола"
+  },
+  {
+    "quest": "Fachschule",
+    "answer": "уч**илище"
+  },
+  {
+    "quest": "(technische) Fachschule",
+    "answer": "т**ехникум"
+  },
+  {
+    "quest": "in die Schule kommen",
+    "answer": "пойт**и в шк**олу \nпоступ**ить в шк**олу\nпоступать"
+  },
+  {
+    "quest": "jmd. / etw. führen, leiten",
+    "answer": "вест**и #=uv. zielgerichtete \nвод**ить #=nicht zielgerichtet"
+  },
+  {
+    "quest": "mit (Altersangabe)",
+    "answer": "в",
+    "details": "в од**ин год"
+  },
+  {
+    "quest": "anfangen\nbeginnen",
+    "answer": "начинать #=uv.\nначать #=v"
+  },
+  {
+    "quest": "jmd. / etw. fahren, befördern",
+    "answer": "воз**ить #=u. nicht zielgerichtet \nвезт**и #=zielgerichtet"
+  },
+  {
+    "quest": "jmd. / etw. führen, lenken\n#=uv.",
+    "answer": "вод**ить #=uv. nicht zielgerichtet \nвест**и #=zielgrichtet",
+    "details": "вод**итель #=Fahrer"
+  },
+  {
+    "quest": "Kindermädchen",
+    "answer": "н**яня"
+  },
+  {
+    "quest": "Schon gut.",
+    "answer": "Ну л**адно."
+  },
+  {
+    "quest": "schwimmen",
+    "answer": "плыть #=uv. zielgerichtete \nпл**авать #=nicht zielgerichtet"
+  },
+  {
+    "quest": "Vorbereitungs-\nhier=# Vorschul-",
+    "answer": "подготов**ительный\nподготов**ительная\nподготов**ительное\nподготов**ительные",
+    "details": "подготов**ительная группа\nпод #=unten"
+  },
+  {
+    "quest": "Erzieher",
+    "answer": "воспит**атель #=m",
+    "details": "воспитание #=Erziehung"
+  },
+  {
+    "quest": "umliegend\numgebend",
+    "answer": "окруж**ающий",
+    "details": "окруж**ающий мир #=Umwelt"
+  },
+  {
+    "quest": "hier=# Kunstunterricht",
+    "answer": "арт-ст**удия"
+  },
+  {
+    "quest": "Sportunterricht",
+    "answer": "физкульт**ура"
+  },
+  {
+    "quest": "Rhetorik\nRedekunst",
+    "answer": "рит**орика"
+  },
+  {
+    "quest": "Buch-",
+    "answer": "кн**ижный"
+  },
+  {
+    "quest": "Rhythmik",
+    "answer": "р**итмика"
+  },
+  {
+    "quest": "Tanz-",
+    "answer": "танцев**альный"
+  },
+  {
+    "quest": "bildend\ngestalterisch\nkreativ",
+    "answer": "тв**орческий"
+  }
+]

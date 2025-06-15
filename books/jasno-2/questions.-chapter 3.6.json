@@ -1,0 +1,149 @@
+[
+  {
+    "quest": "über nichts",
+    "answer": "ни о чём"
+  },
+  {
+    "quest": "Bekannter",
+    "answer": "знак**омый"
+  },
+  {
+    "quest": "musikalisch",
+    "answer": "музык**альный"
+  },
+  {
+    "quest": "Erwachsener",
+    "answer": "взр**ослый"
+  },
+  {
+    "quest": "Gesang",
+    "answer": "вок**ал"
+  },
+  {
+    "quest": "Lernen",
+    "answer": "уч**ение"
+  },
+  {
+    "quest": "Alter",
+    "answer": "ст**арость",
+    "details": "возраст"
+  },
+  {
+    "quest": "Einsamkeit",
+    "answer": "один**очество"
+  },
+  {
+    "quest": "Isolation",
+    "answer": "изол**яция"
+  },
+  {
+    "quest": "negativ",
+    "answer": "негат**ивный"
+  },
+  {
+    "quest": "Einstellung zu",
+    "answer": "отн**ошение к #=+Dat."
+  },
+  {
+    "quest": "unterstützen",
+    "answer": "подд**ерживать #=uv.\nподдерж**ать #=v."
+  },
+  {
+    "quest": "Aktivität",
+    "answer": "акт**ивность"
+  },
+  {
+    "quest": "ältere Person",
+    "answer": "пожил**ой\nпожил**ая\nпожил**ые"
+  },
+  {
+    "quest": "in Verbindung mit",
+    "answer": "в связ**и с #=+Inst."
+  },
+  {
+    "quest": "sich verwirklichen",
+    "answer": "реализов**аться #=v. uv."
+  },
+  {
+    "quest": "gesellschaftlich",
+    "answer": "общественный",
+    "details": "общество #=Gesellschaft"
+  },
+  {
+    "quest": "Bedingung",
+    "answer": "усл**овие",
+    "details": "условия жизни #=Lebensbedingungen"
+  },
+  {
+    "quest": "Tendenz",
+    "answer": "тенд**енция"
+  },
+  {
+    "quest": "Älterwerden",
+    "answer": "стар**ение"
+  },
+  {
+    "quest": "Bevölkerung",
+    "answer": "насел**ение"
+  },
+  {
+    "quest": "Renten-",
+    "answer": "пенси**онный",
+    "details": "пенси**онный фонд"
+  },
+  {
+    "quest": "das Recht",
+    "answer": "пр**аво"
+  },
+  {
+    "quest": "Pädagogik",
+    "answer": "педаг**огика"
+  },
+  {
+    "quest": "Psychologie",
+    "answer": "психол**огия"
+  },
+  {
+    "quest": "Religion",
+    "answer": "рел**игия"
+  },
+  {
+    "quest": "Philosophie",
+    "answer": "филос**офия"
+  },
+  {
+    "quest": "Grundlage",
+    "answer": "основа",
+    "details": "в основном #=hauptsächlich\nоснователь #=Gründer"
+  },
+  {
+    "quest": "EDV Kenntnisse",
+    "answer": "компьютерная грамотность"
+  },
+  {
+    "quest": "Wiederholung",
+    "answer": "повтор**ение"
+  },
+  {
+    "quest": "Fehler",
+    "answer": "ош**ибка",
+    "details": "ошибок #=Gen. Pl."
+  },
+  {
+    "quest": "Zerfall",
+    "answer": "расп**ад"
+  },
+  {
+    "quest": "UdSSR",
+    "answer": "СССР",
+    "details": "Союз Советских Социалистических Республик\n\nСоюз #=Vereinigung"
+  },
+  {
+    "quest": "Ausländer",
+    "answer": "иностр**анец"
+  },
+  {
+    "quest": "isoliert",
+    "answer": "изол**ированный"
+  }
+]

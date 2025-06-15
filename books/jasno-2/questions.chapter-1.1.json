@@ -1,0 +1,143 @@
+[
+  {
+    "quest": "ankommen\nanreisen",
+    "answer": "при**ехать #=v.\nпри**езжать #=uv."
+  },
+  {
+    "quest": "aufbrechen\nabfahren",
+    "answer": "отпр**авиться #=v.\nотпр**авляться #=uv.",
+    "details": "отправл**ение #=Abfahrt, Abflug"
+  },
+  {
+    "quest": "eine Abmachung treffen\nsich einigen",
+    "answer": "договор**иться #=v.\nдогов**ариваться #=uv.",
+    "details": "договор #=Vertrag"
+  },
+  {
+    "quest": "Verkehrsmittel",
+    "answer": "вид тр**анспорта",
+    "details": "вид #=der Blick"
+  },
+  {
+    "quest": "gute Reise\ngute Fahrt",
+    "answer": "Счастл**ивого пут**и",
+    "details": "счастливый #=glücklich\nпуть #=der Weg"
+  },
+  {
+    "quest": "ankommen\neintreffen\nlanden",
+    "answer": "приб**ыть #=v.\nприбыв**ать #=u.",
+    "details": "быть #=sein, werden"
+  },
+  {
+    "quest": "guten Flug\ngute Fahrt",
+    "answer": "при**ятного полёта"
+  },
+  {
+    "quest": "Gepäck",
+    "answer": "баг**аж"
+  },
+  {
+    "quest": "Zugbegleiter",
+    "answer": "проводн**ик"
+  },
+  {
+    "quest": "sich verspäten",
+    "answer": "опозд**ать #=v.\nоп**аздывать #=uv.",
+    "details": "опоздание #=Verspätung"
+  },
+  {
+    "quest": "zurück",
+    "answer": "обр**атно"
+  },
+  {
+    "quest": "begrüßen",
+    "answer": "прив**етствовать #=v./uv.",
+    "details": "привет"
+  },
+  {
+    "quest": "Reise\nGleis",
+    "answer": "Путь #=m"
+  },
+  {
+    "quest": "abfliegen\nwegfliegen",
+    "answer": "улет**еть #=v.\nулет**ать #=uv."
+  },
+  {
+    "quest": "Koffer",
+    "answer": "чемод**ан"
+  },
+  {
+    "quest": "Flug",
+    "answer": "пейс"
+  },
+  {
+    "quest": "mitnehmen",
+    "answer": "взять с с**обой #=v.\nбрать с соб**ой #=uv."
+  },
+  {
+    "quest": "Flug",
+    "answer": "полёт"
+  },
+  {
+    "quest": "historisch",
+    "answer": "истор**ический\nистор**ическая\nистор**ическое\nистор**ические"
+  },
+  {
+    "quest": "Westeuropa",
+    "answer": "Западная Европа"
+  },
+  {
+    "quest": "Marketingfachmann",
+    "answer": "маркет**олог"
+  },
+  {
+    "quest": "Fluggesellschaft",
+    "answer": "авиакомп**ания"
+  },
+  {
+    "quest": "Aeroflot",
+    "answer": "Аэрофл**от"
+  },
+  {
+    "quest": "erfüllen,\nausführen",
+    "answer": "выполн**ять #=uv.\nв**ыполнить #=v.",
+    "details": "выполн**ять зад**ание\n#=eine Aufgabe machen\nполн**ить #=auftragen"
+  },
+  {
+    "quest": "hier=# Flugkapitän",
+    "answer": "команд**ир"
+  },
+  {
+    "quest": "Besatzung",
+    "answer": "экип**аж"
+  },
+  {
+    "quest": "anschnallen",
+    "answer": "пристегнуть #=v.\nпристёгивать #=uv.",
+    "details": "пристегнуть ремни\n#=Sicherheitsgurt anschnallen"
+  },
+  {
+    "quest": "hier=# Sicherheitsgurt\nGürtel\nGurt",
+    "answer": "рем**ень #=m."
+  },
+  {
+    "quest": "Aufmerksamkeit",
+    "answer": "вним**ание #=nur Sg."
+  },
+  {
+    "quest": "Lehrbuch",
+    "answer": "уч**ебник"
+  },
+  {
+    "quest": "Heimat-",
+    "answer": "родн**ой\nродн**ая\nродное\nродние"
+  },
+  {
+    "quest": "zum ersten mal",
+    "answer": "вперв**ые"
+  },
+  {
+    "quest": "Wie finden Sie …?",
+    "answer": "Как вам …?"
+  }
+]

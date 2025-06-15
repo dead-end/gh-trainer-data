@@ -1,0 +1,141 @@
+[
+  {
+    "quest": "nichts",
+    "answer": "ничт**о"
+  },
+  {
+    "quest": "jmd. erfreuen",
+    "answer": "р**адовать #=uv. +akk\nпор**адовать #=v."
+  },
+  {
+    "quest": "Kundin",
+    "answer": "кли**ента",
+    "details": "клиенток #=Gen. Pl."
+  },
+  {
+    "quest": "Frisur",
+    "answer": "причёска",
+    "details": "причёсок #=Gen. Pl."
+  },
+  {
+    "quest": "ein bisschen reden\nsich aussprechen",
+    "answer": "поговор**ить #=uv."
+  },
+  {
+    "quest": "niemand",
+    "answer": "никт**о"
+  },
+  {
+    "quest": "Steckenpferd\nHobby",
+    "answer": "увлеч**ение",
+    "details": "влечение #=Lust, Neigung\nразвлечение #=Unterhaltung, Spaß"
+  },
+  {
+    "quest": "Fotograf als Beruf",
+    "answer": "фотогр**афия",
+    "details": "курсы фотографии"
+  },
+  {
+    "quest": "Konkurrenz",
+    "answer": "конкур**енция"
+  },
+  {
+    "quest": "Gründer",
+    "answer": "старт**апер"
+  },
+  {
+    "quest": "Gedanke",
+    "answer": "мысль #=f."
+  },
+  {
+    "quest": "etw. / jmd. zurücklassen\netw. lassen",
+    "answer": "ост**авить #=v.\nоставл**ять #=uv.",
+    "details": "остановка #=Haltestelle\nставить #=stellen"
+  },
+  {
+    "quest": "gewohnt\ngewohnheitsmäßig",
+    "answer": "прив**ычный"
+  },
+  {
+    "quest": "wegen",
+    "answer": "р**ади #=+Gen."
+  },
+  {
+    "quest": "hier: =#Beschäftigung \nArbeit",
+    "answer": "д**ело"
+  },
+  {
+    "quest": "medizinische Fachschule",
+    "answer": "медуч**илище"
+  },
+  {
+    "quest": "nirgendwo",
+    "answer": "нигд**е"
+  },
+  {
+    "quest": "Szenario",
+    "answer": "сцен**арий"
+  },
+  {
+    "quest": "müssen",
+    "answer": "прийтись #=v. +Dat. unpersönlich \nпришлось #=3. P. Prä\n\nприходиться #=uv.\nприходится #=3. P. Prä"
+  },
+  {
+    "quest": "Entlassung",
+    "answer": "сокращ**ение"
+  },
+  {
+    "quest": "verzichten",
+    "answer": "отказ**аться *от* #=v. +Gen.\nотк**азываться *от* #=uv."
+  },
+  {
+    "quest": "aufgeben\nnachgeben",
+    "answer": "сдаться #=v.\nсдаваться #=uv."
+  },
+  {
+    "quest": "bei niemanden",
+    "answer": "ни у ког**о"
+  },
+  {
+    "quest": "wechseln",
+    "answer": "поменять #=v.\nменять #=uv."
+  },
+  {
+    "quest": "Midlife crisis",
+    "answer": "кр**изис ср**еднего в**озраста",
+    "details": "возраст #=Alter"
+  },
+  {
+    "quest": "älter werden",
+    "answer": "стареть #=uv.\nпостареть #=v."
+  },
+  {
+    "quest": "Routine",
+    "answer": "рут**ина"
+  },
+  {
+    "quest": "während",
+    "answer": "в течение #=Gen.",
+    "details": "во время #=während"
+  },
+  {
+    "quest": "Basketballspieler",
+    "answer": "баскетбол**ист"
+  },
+  {
+    "quest": "Coach",
+    "answer": "к**оуч"
+  },
+  {
+    "quest": "Veränderung",
+    "answer": "измен**ение"
+  },
+  {
+    "quest": "nirgendwohin",
+    "answer": "никуд**а"
+  },
+  {
+    "quest": "keiner",
+    "answer": "никак**ой\nникак**ая\nникак**ое\nникак**ие"
+  }
+]

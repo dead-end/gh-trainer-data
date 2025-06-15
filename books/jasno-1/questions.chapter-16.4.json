@@ -1,0 +1,158 @@
+[
+  {
+    "quest": "Fracht",
+    "answer": "груз"
+  },
+  {
+    "quest": "importieren",
+    "answer": "импорт**ировать #=uv."
+  },
+  {
+    "quest": "exportieren",
+    "answer": "экспорт**ировать #=uv."
+  },
+  {
+    "quest": "Lebensmittel",
+    "answer": "прод**укты пит**ания"
+  },
+  {
+    "quest": "Pazifik",
+    "answer": "Т**ихий оке**ан"
+  },
+  {
+    "quest": "Atlantik",
+    "answer": "Атлант**ический оке**ан"
+  },
+  {
+    "quest": "Metall",
+    "answer": "мет**алл"
+  },
+  {
+    "quest": "Meer-\nMeeres",
+    "answer": "морск**ой\nморск**ая\nморск**ое\nморск**ие"
+  },
+  {
+    "quest": "zufrieren",
+    "answer": "замерз**ать #=uv."
+  },
+  {
+    "quest": "Südkorea",
+    "answer": "**Южная Кор**ея"
+  },
+  {
+    "quest": "Taiwan",
+    "answer": "Тайв**ань #=m"
+  },
+  {
+    "quest": "Vietnam",
+    "answer": "Вьетн**ам"
+  },
+  {
+    "quest": "Meeresfrüchte",
+    "answer": "морепрод**укты"
+  },
+  {
+    "quest": "Schwarzmetalle",
+    "answer": "чёрные мет**аллы"
+  },
+  {
+    "quest": "Buntmetalle",
+    "answer": "цветн**ые мет**аллы"
+  },
+  {
+    "quest": "Erlauben Sie …\nGestatten Sie …",
+    "answer": "Разреш**ите …",
+    "details": "разрешить #=erlauben\nрешить #=entscheiden"
+  },
+  {
+    "quest": "Sortiment\nPalette",
+    "answer": "ассортим**ент"
+  },
+  {
+    "quest": "Fisch-",
+    "answer": "р**ыбный\nр**ыбная\nр**ыбное\nр**ыбные"
+  },
+  {
+    "quest": "Ferner Osten",
+    "answer": "Д**альний Вост**ок"
+  },
+  {
+    "quest": "Kataloge",
+    "answer": "катал**ог"
+  },
+  {
+    "quest": "auf … hoffen",
+    "answer": "над**еяться на #=(+) Akk.",
+    "details": "я над**еюсь\nты над**еешься\nон / она / оно над**еется\nмы над**еемся\nвы над**еетесь\nони над**еются\n- надежда #=Hoffnung"
+  },
+  {
+    "quest": "gute Zusammenarbeit",
+    "answer": "взаимов**ыгодное сотр**удничество"
+  },
+  {
+    "quest": "mit Respekt\nmit Verehrung\nin Briefen:=# Mit Hochachtung\nhochachtungsvoll",
+    "answer": "С уваж**ением"
+  },
+  {
+    "quest": "retten\nerretten",
+    "answer": "­спасти",
+    "details": "(я) спасу\n(ты) спасёшь\n(он/она/оно) спасёт\n(мы) спасём\n(вы) спасёте\n(они) спасут\n\nспас\nспасла\nспасли"
+  },
+  {
+    "quest": "chinesisch",
+    "answer": "кит**айский\nкит**айская\nкит**айское\nкит**айские"
+  },
+  {
+    "quest": "Rettung",
+    "answer": "спас**ение"
+  },
+  {
+    "quest": "adoptieren",
+    "answer": "усынов**ить #=v."
+  },
+  {
+    "quest": "sofort",
+    "answer": "ср**азу"
+  },
+  {
+    "quest": "entscheiden",
+    "answer": "реш**ить #=v.\nреш**ать #=uv.",
+    "details": "(я) реш**у\n(ты) реш**ишь\n(он/она/оно) реш**ит\n(мы) реш**им\n(вы) реш**ите\n(они) реш**ат"
+  },
+  {
+    "quest": "Fernöstliche Küstenregion",
+    "answer": "Прим**орье"
+  },
+  {
+    "quest": "wollen",
+    "answer": "захотеть #=v.\nхотеть #=uv."
+  },
+  {
+    "quest": "bezahlen",
+    "answer": "заплат**ить #=v.\nплат**ить #=uv.",
+    "details": "(я) заплачу\n(ты) заплатишь\n(он/она/оно) заплатит\n(мы) заплатим\n(вы) заплатите\n(они) заплатят"
+  },
+  {
+    "quest": "träumen",
+    "answer": "мечтать #=uv."
+  },
+  {
+    "quest": "wegfahren",
+    "answer": "уехать #=v.\nуезжать #=uv.",
+    "details": "У #=weg"
+  },
+  {
+    "quest": "alles hängt von uns ab",
+    "answer": "всё зав**исит от нас"
+  },
+  {
+    "quest": "hier:=# lehren\nbeibringen",
+    "answer": "учить #=uv. (+) Akk.",
+    "details": "(я) учу\n(ты) учишь\n(он/она/оно) учит\n(мы) учим\n(вы) учите\n(они) учат"
+  },
+  {
+    "quest": "Adoptiveltern #=Pl.",
+    "answer": "усынов**ители #=Pl.",
+    "details": "усы #=Bart\nновый #=neu"
+  }
+]

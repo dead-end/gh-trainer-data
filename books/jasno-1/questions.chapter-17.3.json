@@ -1,0 +1,142 @@
+[
+  {
+    "quest": "Generaldirektor",
+    "answer": "генер**альный дир**ектор"
+  },
+  {
+    "quest": "für etw. / jmdn. verantwortlich sein",
+    "answer": "отвеч**ать за #=(+) Akk.",
+    "details": "ответ #=Antwort"
+  },
+  {
+    "quest": "Beschaffung",
+    "answer": "зак**упка\nзак**упок #=Gen. Pl."
+  },
+  {
+    "quest": "Verkauf",
+    "answer": "прод**ажа"
+  },
+  {
+    "quest": "eigentlich",
+    "answer": "с**обственно"
+  },
+  {
+    "quest": "Bote",
+    "answer": "курь**ер"
+  },
+  {
+    "quest": "Modem",
+    "answer": "мод**ем"
+  },
+  {
+    "quest": "USB-Stick",
+    "answer": "фл**ешка\nфл**ешек #=Gen. Pl."
+  },
+  {
+    "quest": "Mauspad",
+    "answer": "к**оврик для м**ыши",
+    "details": "к**оврик #=Matte, Badevorleger"
+  },
+  {
+    "quest": "bringen",
+    "answer": "прин**осить #=uv.",
+    "details": "прин**осить\nя принош**у\nты прин**осишь\nон / она / оно приносит\nмы приносим\nвы приносите\nони приносят\n- носить #=tragen (Kleidung)"
+  },
+  {
+    "quest": "Kleinigkeit",
+    "answer": "м**елочь #=f\nмелоч**ей #=Gen. Pl."
+  },
+  {
+    "quest": "erfreuen\neine Freude bereiten",
+    "answer": "пор**адовать #=v.\nр**адовать #=uv."
+  },
+  {
+    "quest": "kleines Unternehmen",
+    "answer": "м**алый б**изнес",
+    "details": "маленький #=klein"
+  },
+  {
+    "quest": "konkurrieren",
+    "answer": "конкур**ировать #=uv."
+  },
+  {
+    "quest": "individuell",
+    "answer": "индивиду**ально"
+  },
+  {
+    "quest": "Computer-",
+    "answer": "компь**ютерный\nкомпь**ютерная\nкомпь**ютерное\nкомпь**ютерные"
+  },
+  {
+    "quest": "echt\nrichtig\norigina",
+    "answer": "насто**ящий\nнасто**ящая\nнасто**ящее\nнасто**ящие"
+  },
+  {
+    "quest": "eine Zeitlang arbeiten",
+    "answer": "пораб**отать #=v."
+  },
+  {
+    "quest": "Freude",
+    "answer": "радость #=f"
+  },
+  {
+    "quest": "zurückkehren\nzurückkommen",
+    "answer": "верн**уться #=v.\nвозвращаться #=uv.",
+    "details": "верн**уться\nя верн**усь\nты вернёшься\nон / она / оно вернётся\nмы вернёмся\nвы вернётесь\nони верн**утся"
+  },
+  {
+    "quest": "Vorfahren",
+    "answer": "прародители #=Vorfahren",
+    "details": "пр**едки #=ugs."
+  },
+  {
+    "quest": "Kaufmann (alt)",
+    "answer": "куп**ец",
+    "details": "купцы #=Nom. Pl.\nкупцов #=Gen. Pl."
+  },
+  {
+    "quest": "Gründer",
+    "answer": "основ**атель #=m",
+    "details": "в основном #=hauptsächlich"
+  },
+  {
+    "quest": "Urgroßvater",
+    "answer": "прад**едушка"
+  },
+  {
+    "quest": "Zarin",
+    "answer": "цар**ица"
+  },
+  {
+    "quest": "Zusammenfluss",
+    "answer": "сли**яние"
+  },
+  {
+    "quest": "Hügel",
+    "answer": "холм"
+  },
+  {
+    "quest": "Informationstechnologien",
+    "answer": "информаци**онные технол**огии"
+  },
+  {
+    "quest": "liegen\nsich befinden",
+    "answer": "распол**ожен\nраспол**ожна\nраспол**ожно\nраспол**ожны"
+  },
+  {
+    "quest": "Software-",
+    "answer": "софтв**ерный\nсофтв**ерная\nсофтв**ерное\nсофтв**ерные"
+  },
+  {
+    "quest": "höflich",
+    "answer": "в**ежливый\nв**ежливая\nв**ежливое\nв**ежливые"
+  },
+  {
+    "quest": "gastfreundlich",
+    "answer": "гостепри**имный\nгостепри**имная\nгостепри**имное\nгостепри**имные"
+  },
+  {
+    "quest": "potenziell",
+    "answer": "потенци**альный\nпотенци**альная\nпотенци**альное\nпотенци**альные"
+  }
+]

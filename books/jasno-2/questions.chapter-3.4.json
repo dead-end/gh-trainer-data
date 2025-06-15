@@ -1,0 +1,143 @@
+[
+  {
+    "quest": "humanistisch\ngeisteswissenschaftlich",
+    "answer": "гуманит**арный"
+  },
+  {
+    "quest": "Arzthelfer",
+    "answer": "ф**ельдшер"
+  },
+  {
+    "quest": "angesehen",
+    "answer": "прест**ижный"
+  },
+  {
+    "quest": "bringen\nanführen \nnennen",
+    "answer": "привест**и #=v.\nпривод**ить #=uv.",
+    "details": "привест**и прим**ер\n#=ein Beispiel anführen \n\nпривод**ить \n(я) привожу\n(ты) приводишь\n(он/она/оно) приводит\n(мы) приводим\n(вы) приводите\n(они) приводят\n\nFutur=#\nпривест**и\n(я) приведу\n(ты) приведёшь\n(он/она/оно) приведёт\n(мы) приведём\n(вы) приведёте\n(они) приведут"
+  },
+  {
+    "quest": "nicht notwendig",
+    "answer": "необяз**ательный",
+    "details": "обязательно #=unbedingt\nобязанность #=Pflicht"
+  },
+  {
+    "quest": "landwirtschaftlich",
+    "answer": "агр**арный"
+  },
+  {
+    "quest": "Bau-",
+    "answer": "стро**ительный",
+    "details": "строить #=bauen\nстройка #=Baustelle"
+  },
+  {
+    "quest": "Session\nTagung",
+    "answer": "с**ессия"
+  },
+  {
+    "quest": "Bachelor Studium",
+    "answer": "бакалаври**ат"
+  },
+  {
+    "quest": "unterrichten\nlehren",
+    "answer": "науч**ить #=v. +Akk.\nуч**ить #=uv."
+  },
+  {
+    "quest": "Vergleich",
+    "answer": "сравн**ение",
+    "details": "по сравнению #=im Vergleich"
+  },
+  {
+    "quest": "Disziplin",
+    "answer": "дисципл**ина"
+  },
+  {
+    "quest": "Standard-\nstandardisiert",
+    "answer": "станд**артный"
+  },
+  {
+    "quest": "fakultative",
+    "answer": "факультат**ивный"
+  },
+  {
+    "quest": "Semester",
+    "answer": "сем**естр"
+  },
+  {
+    "quest": "Prüfung (ohne Note)\nTestat",
+    "answer": "зачёт"
+  },
+  {
+    "quest": "unterrichten",
+    "answer": "в**ыучить #=v.\nуч**ить #=uv."
+  },
+  {
+    "quest": "Leiter",
+    "answer": "руковод**итель"
+  },
+  {
+    "quest": "Magister Studium",
+    "answer": "магистрат**ура"
+  },
+  {
+    "quest": "Wissenschaft",
+    "answer": "на**ука",
+    "details": "научный #=wissenschaftlich"
+  },
+  {
+    "quest": "anerkennen\nakzeptieren",
+    "answer": "признав**ать #=uv.\nпризн**ать #=v.",
+    "details": "знать #=kennen"
+  },
+  {
+    "quest": "Abteilung",
+    "answer": "отд**ел"
+  },
+  {
+    "quest": "lernen",
+    "answer": "науч**иться #=v.\nуч**иться #=uv."
+  },
+  {
+    "quest": "Abkürzung:\nNachname, Name, Vatersnamen",
+    "answer": "ФИО\nфам**илия, имя, **отчество"
+  },
+  {
+    "quest": "Geburt",
+    "answer": "рожд**ение",
+    "details": "дата рождения #=Geburtsdatum"
+  },
+  {
+    "quest": "Lage\nSituation",
+    "answer": "полож**ение",
+    "details": "семейное положение #=Familienstand"
+  },
+  {
+    "quest": "Anspruch\nAnforderung",
+    "answer": "тр**ебование"
+  },
+  {
+    "quest": "hier=#Fachgebiet",
+    "answer": "сф**ера"
+  },
+  {
+    "quest": "Korrespondent",
+    "answer": "корреспонд**ент"
+  },
+  {
+    "quest": "verantwortungsvoll \nverantwortungsbewusst",
+    "answer": "отв**етственный"
+  },
+  {
+    "quest": "niemals",
+    "answer": "никогд**а"
+  },
+  {
+    "quest": "unzufrieden",
+    "answer": "недов**ольный #=+ Inst.\n\nнедов**олен\nнедов**ольна\nнедов**ольно\nнедов**ольны"
+  },
+  {
+    "quest": "langweilen \nsatthaben",
+    "answer": "надо**есть #=+ Dat. v.\nнадоед**ать #=uv.",
+    "details": "Futur=#\nнадоесть\n(я) надоем\n(ты) надоешь\n(он/она/оно) надоест\n(мы) надоедим\n(вы) надоедите\n(они) надоедят\n\nнадоедать\n(я) надоедаю\n(ты) надоедаешь\n(он/она/оно) надоедает\n(мы) надоедаем\n(вы) надоедаете\n(они) надоедают"
+  }
+]

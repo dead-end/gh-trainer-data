@@ -1,0 +1,150 @@
+[
+  {
+    "quest": "verheiratet #=(auf Mann bezogen)",
+    "answer": "жен**ат\nжен**аты"
+  },
+  {
+    "quest": "geschieden",
+    "answer": "разведён\nразведен**а"
+  },
+  {
+    "quest": "Witwer",
+    "answer": "вдов**ец\nвдовц**а #=Gen.Sg."
+  },
+  {
+    "quest": "ledig #=(auf Frau bezogen)",
+    "answer": "не з**амужем"
+  },
+  {
+    "quest": "verheiratet #=(auf Frau bezogen)",
+    "answer": "з**амужем"
+  },
+  {
+    "quest": "Witwe",
+    "answer": "вдов**а"
+  },
+  {
+    "quest": "Hochzeit",
+    "answer": "св**адьба\nсв**адеб #=Gen. Pl."
+  },
+  {
+    "quest": "Ring",
+    "answer": "кольц**о\nкол**ец #=Gen. Pl."
+  },
+  {
+    "quest": "Ach was!",
+    "answer": "Что ты!"
+  },
+  {
+    "quest": "heiraten #=(auf Frau bezogen)",
+    "answer": "в**ыйти замуж\nв**ышла\nв**ышли #=v.\n-выход**ить #=uv."
+  },
+  {
+    "quest": "ging\ngingen",
+    "answer": "шёл\nшла\nшли"
+  },
+  {
+    "quest": "heiraten #=(vom Mann aus)",
+    "answer": "жен**иться\nжен**ился\nжен**ились #=v. / uv."
+  },
+  {
+    "quest": "Militärangehöriger",
+    "answer": "во**енный"
+  },
+  {
+    "quest": "(er)öffnen",
+    "answer": "откр**ыть\nоткрыв**ать #=uv.",
+    "details": "я откр**ою\nты откроешь\nон / она / оно откроет\nмы откроем\nвы откроете\nони откроют"
+  },
+  {
+    "quest": "verdienen",
+    "answer": "зараб**отать #=v.\nзарабатывать #=uv.",
+    "details": "зарплата #=Lohn, Gehalt"
+  },
+  {
+    "quest": "Million",
+    "answer": "милли**он"
+  },
+  {
+    "quest": "gewöhnlich",
+    "answer": "об**ычный\nоб**ычная\nоб**ычное\nоб**ычные"
+  },
+  {
+    "quest": "Perestroika",
+    "answer": "перестр**ойка"
+  },
+  {
+    "quest": "leer",
+    "answer": "п**усто"
+  },
+  {
+    "quest": "konnte\nkonnten",
+    "answer": "мог\nмогл**а\nмогл**и"
+  },
+  {
+    "quest": "wachsen",
+    "answer": "расти",
+    "details": "я расту\nты растёшь\nон / она / оно растёт\nмы растём\nвы растёте\nони растут\n\nрос\nросла\nросли uv."
+  },
+  {
+    "quest": "viele",
+    "answer": "мн**огие"
+  },
+  {
+    "quest": "Bekannte(n)",
+    "answer": "знакомый\nзнакомая\nзнакомые"
+  },
+  {
+    "quest": "aussichtslose, hoffnungslose Situation",
+    "answer": "безв**ыходная ситу**ация",
+    "details": "в**ыход #=Ausgang"
+  },
+  {
+    "quest": "aus jeder Situation",
+    "answer": "из любой ситуации"
+  },
+  {
+    "quest": "half\nhalfen",
+    "answer": "пом**ог\nпомогл**а\nпомогл**и #=v."
+  },
+  {
+    "quest": "zivilisiert",
+    "answer": "цивилиз**ованно"
+  },
+  {
+    "quest": "verhandeln",
+    "answer": "догов**ариваться #=uv."
+  },
+  {
+    "quest": "E-Mail",
+    "answer": "электр**онная п**очта"
+  },
+  {
+    "quest": "planen",
+    "answer": "план**ировать #=uv."
+  },
+  {
+    "quest": "sportlich",
+    "answer": "спортивный\nспортивная\nспортивное\nспортивные"
+  },
+  {
+    "quest": "Pelzmantel",
+    "answer": "ш**уба"
+  },
+  {
+    "quest": "Tablet-PC",
+    "answer": "планш**ет"
+  },
+  {
+    "quest": "sich interessieren",
+    "answer": "интересов**аться #=+ Instr."
+  },
+  {
+    "quest": "Asiatisch-Pazifischer Raum",
+    "answer": "Ази**атско-Тихооке**анский реги**он"
+  },
+  {
+    "quest": "Bucht",
+    "answer": "б**ухта"
+  }
+]

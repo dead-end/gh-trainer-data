@@ -1,0 +1,143 @@
+[
+  {
+    "quest": "Stereotyp",
+    "answer": "стереот**ип"
+  },
+  {
+    "quest": "Popularisierung",
+    "answer": "популяриз**ация"
+  },
+  {
+    "quest": "sich entwickeln",
+    "answer": "развив**аться #=uv.\nразв**иться #=v.",
+    "details": "разв**итие #=Entwicklung"
+  },
+  {
+    "quest": "Campus",
+    "answer": "к**ампус"
+  },
+  {
+    "quest": "MGU",
+    "answer": "МГУ",
+    "details": "Московский Государственный университет"
+  },
+  {
+    "quest": "Student",
+    "answer": "уч**ащийся"
+  },
+  {
+    "quest": "entstehen",
+    "answer": "созд**аться #=v.\nсоздав**аться #=uv."
+  },
+  {
+    "quest": "Popularität",
+    "answer": "попул**ярность"
+  },
+  {
+    "quest": "wachsen",
+    "answer": "р**асти #=uv.\nв**ырасти #=v."
+  },
+  {
+    "quest": "Behandlung",
+    "answer": "подх**од",
+    "details": "индивидуальный подход"
+  },
+  {
+    "quest": "Abhängigkeit",
+    "answer": "зав**исимость #=f.",
+    "details": "в зависимость от\n#=in Abhängigkeit von"
+  },
+  {
+    "quest": "Bedürfnis",
+    "answer": "потр**ебность #=f.",
+    "details": "требование #=Anforderung"
+  },
+  {
+    "quest": "die Ausführung \ndie Einstellung \nFormalität",
+    "answer": "оформл**ение",
+    "details": "оформл**ение докум**eнта\nAusfertigung einer Urkunde=#"
+  },
+  {
+    "quest": "Visum",
+    "answer": "в**иза"
+  },
+  {
+    "quest": "Unterbringung",
+    "answer": "прожив**ание",
+    "details": "жить"
+  },
+  {
+    "quest": "sich verändern",
+    "answer": "измен**иться #=v.\nизмен**яться #=uv.",
+    "details": "изменение #=Veränderung"
+  },
+  {
+    "quest": "in Erfüllung gehen",
+    "answer": "исп**олниться #=v.\nисполн**яться #=uv.",
+    "details": "исполн**ение #=Erfüllung"
+  },
+  {
+    "quest": "legendär",
+    "answer": "легенд**арный"
+  },
+  {
+    "quest": "Gründer",
+    "answer": "основ**атель #=m."
+  },
+  {
+    "quest": "genial",
+    "answer": "гени**альный"
+  },
+  {
+    "quest": "Physiker",
+    "answer": "ф**изик"
+  },
+  {
+    "quest": "Chemiker",
+    "answer": "х**имик"
+  },
+  {
+    "quest": "Poet",
+    "answer": "по**эт"
+  },
+  {
+    "quest": "Übersetzer",
+    "answer": "перев**одчик"
+  },
+  {
+    "quest": "reformieren",
+    "answer": "реформ**ировать #=v. uv."
+  },
+  {
+    "quest": "Poesie",
+    "answer": "поэзия"
+  },
+  {
+    "quest": "Grammatik",
+    "answer": "грамм**атика"
+  },
+  {
+    "quest": "Mosaik",
+    "answer": "моз**аик"
+  },
+  {
+    "quest": "googeln",
+    "answer": "погугить #=v.\nгуглить #=uv."
+  },
+  {
+    "quest": "Alltag",
+    "answer": "быт"
+  },
+  {
+    "quest": "Sportplatz",
+    "answer": "спортплощ**адка"
+  },
+  {
+    "quest": "Konservatorium",
+    "answer": "консерват**ория"
+  },
+  {
+    "quest": "Patent",
+    "answer": "пат**ент"
+  }
+]

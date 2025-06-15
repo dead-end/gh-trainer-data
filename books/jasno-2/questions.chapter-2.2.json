@@ -1,0 +1,152 @@
+[
+  {
+    "quest": "Vergnügen",
+    "answer": "уд**овольствие",
+    "details": "жить в своё удовольствие\nzu seinem eigenem Vergnügen leben=#"
+  },
+  {
+    "quest": "Herr",
+    "answer": "хоз**яин",
+    "details": "сам себе хозяин\nsein eigener Herr sein=#"
+  },
+  {
+    "quest": "Institution der Ehe",
+    "answer": "инстит**ут бр**ака"
+  },
+  {
+    "quest": "nicht aktuell",
+    "answer": "неакту**альный\nнеакту**альная\nнеакту**альное\nнеакту**альные"
+  },
+  {
+    "quest": "einverstanden (sein)",
+    "answer": "согл**асный\nkurz =#\nсогласен \nсогласна\nсогласно\nсогласны",
+    "details": "согл**асный с мнением \neiner Meinung zustimmen=#"
+  },
+  {
+    "quest": "ernst\nernsthaft",
+    "answer": "серьёзный\nсерьёзная\nсерьёзное\nсерьёзные"
+  },
+  {
+    "quest": "aber\n(je)doch\nallerdings",
+    "answer": "одн**ако"
+  },
+  {
+    "quest": "stark\nfest",
+    "answer": "твёрдый\nтвёрдая\nтвёрдое\nтвёрдые"
+  },
+  {
+    "quest": "ein halbes Jahr",
+    "answer": "полг**ода"
+  },
+  {
+    "quest": "sicher\nüberzeugt",
+    "answer": "ув**еренный\nkurz=#\nуверен \nуверена \nуверено\nуверены",
+    "details": "уехать #=wegfahren"
+  },
+  {
+    "quest": "Zuschauer",
+    "answer": "зр**итель #=m."
+  },
+  {
+    "quest": "verheiratet sein",
+    "answer": "состо**ять в браке с #=+ Instr. nur uv.",
+    "details": "состо**ять #=(aus etwas) bestehen"
+  },
+  {
+    "quest": "Kommt Zeit kommt Rat.",
+    "answer": "Вр**емя пок**ажет.",
+    "details": "показать #=auf jem. / etw. zeigen"
+  },
+  {
+    "quest": "Wert",
+    "answer": "ц**енность #=f.",
+    "details": "цен**а #=Preis\nцен**ить #=schätzen"
+  },
+  {
+    "quest": "die Mehrheit",
+    "answer": "большинств**о #=nur Sg."
+  },
+  {
+    "quest": "sich ereignen\ngeschehen",
+    "answer": "происход**ить #=uv.\nпроисходит #=nur 3. P.\nпроисходят \n\nпроизойти #=v.\nпроизойдёт #=nur 3. P.\nпроизойдут"
+  },
+  {
+    "quest": "Bürger-\nbürgerlich",
+    "answer": "гражд**анский \nгражд**анская\nгражд**анское\nгражд**анские",
+    "details": "гражд**анский брак \nLebenspartnerschaft=#"
+  },
+  {
+    "quest": "Standesamt",
+    "answer": "ЗАГС #=m.",
+    "details": "запись актов гражданского состояния\nсостояния #=der Stand, das Vermögen"
+  },
+  {
+    "quest": "Paar",
+    "answer": "п**ара"
+  },
+  {
+    "quest": "Stempel",
+    "answer": "штамп"
+  },
+  {
+    "quest": "bewahren",
+    "answer": "сохран**ить #=v.\nсохран**ять #=uv.",
+    "details": "охранять #=schützen"
+  },
+  {
+    "quest": "aus juristischer Sicht",
+    "answer": "в юрид**ическом пл**ане"
+  },
+  {
+    "quest": "geboren werden",
+    "answer": "рождаться #=uv.\nродиться #=v."
+  },
+  {
+    "quest": "Status",
+    "answer": "ст**атус"
+  },
+  {
+    "quest": "beeinflussen",
+    "answer": "влиять на #=+ Akk. uv.\nповлиять на #=v."
+  },
+  {
+    "quest": "aufhören",
+    "answer": "перестать #=v.\nпереставать #=uv.",
+    "details": "стать #=werden"
+  },
+  {
+    "quest": "notwendig",
+    "answer": "необход**имый"
+  },
+  {
+    "quest": "wirtschaftlich\nWirtschafts-",
+    "answer": "эконом**ический"
+  },
+  {
+    "quest": "gleichgeschlechtlich",
+    "answer": "одноп**олый"
+  },
+  {
+    "quest": "Beziehung\nVerhältnis",
+    "answer": "отнош**ения #=Pl.",
+    "details": "относ**иться к +Dat. uv. \nотнест**ись к v.\nsich (zu jmdm./etw.) verhalten =#\nsich (auf jmdn./etw.) beziehen =#\n\nКак вы относитесь к браку?\nWas halten Sie von der Ehe?=#"
+  },
+  {
+    "quest": "besitzen \nhaben",
+    "answer": "им**еть #=nur uv."
+  },
+  {
+    "quest": "Recht",
+    "answer": "право на #=+ Akk.",
+    "details": "прав**а #=Nom. Pl."
+  },
+  {
+    "quest": "kompliziert \nschwierig",
+    "answer": "сл**ожный"
+  },
+  {
+    "quest": "anerkennen",
+    "answer": "признав**ать #=uv.\nпризн**ать #=v.",
+    "details": "знать #=kennen, wissen\nприехать #=ankommen"
+  }
+]

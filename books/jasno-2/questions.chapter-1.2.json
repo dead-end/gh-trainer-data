@@ -1,0 +1,155 @@
+[
+  {
+    "quest": "sympathisch \nangenehm \neinnehmend",
+    "answer": "симпат**ичный\nсимпат**ичная\nсимпат**ичное\nсимпат**ичные"
+  },
+  {
+    "quest": "insgesamt",
+    "answer": "всег**о",
+    "details": "все #=alle"
+  },
+  {
+    "quest": "in(nnerhalb) dieser Zeit",
+    "answer": "за **это вр**емя",
+    "details": "во вр**емя #=während\nв**овремя #=rechzeitig"
+  },
+  {
+    "quest": "ausführen\nvollziehen",
+    "answer": "соверш**ить #=v.\nсоверш**ать #=uv.",
+    "details": "совершать посадку\n#=landen"
+  },
+  {
+    "quest": "Landung",
+    "answer": "пос**адка"
+  },
+  {
+    "quest": "Scheremetjewo",
+    "answer": "Шерем**етьево"
+  },
+  {
+    "quest": "bitten",
+    "answer": "прос**ить #=uv.\nпопрос**ить #=v.",
+    "details": "спрос**ить #=fragen"
+  },
+  {
+    "quest": "bleiben",
+    "answer": "остав**аться #=uv.\nост**аться #=v.",
+    "details": "остановка #=Haltestelle"
+  },
+  {
+    "quest": "hier=# endgültige Position\nHaltestelle",
+    "answer": "остан**овка"
+  },
+  {
+    "quest": "Auswahl\nWahl",
+    "answer": "в**ыбор",
+    "details": "в**ыбрать #=wählen\n- вы**-брать\n- aus**-nehmen"
+  },
+  {
+    "quest": "laufen",
+    "answer": "беж**ать #=uv., zielgerichtet \nб**егать #=v. nicht zielgerichtet",
+    "details": "пр**ыгать #=springen"
+  },
+  {
+    "quest": "bis (einschließlich)",
+    "answer": "по",
+    "details": "по п**ятое **августа\n#=bis zum 5. August"
+  },
+  {
+    "quest": "Reisepass",
+    "answer": "п**аспорт"
+  },
+  {
+    "quest": "Pass-",
+    "answer": "п**аспортный\nп**аспортная\nп**аспортное\nп**аспортные"
+  },
+  {
+    "quest": "Kontrolle",
+    "answer": "контр**оль",
+    "details": "п**аспортный контр**оль"
+  },
+  {
+    "quest": "Besuch",
+    "answer": "виз**ит"
+  },
+  {
+    "quest": "Aufenthalt",
+    "answer": "пребыв**ание",
+    "details": "срок пребывания #=Aufenthaltsdauer\nбыть #=sein, werden"
+  },
+  {
+    "quest": "Entfernung",
+    "answer": "рассто**яние",
+    "details": "состояние #=Vermögen, Reichtum"
+  },
+  {
+    "quest": "sich an jmdn. wenden",
+    "answer": "обращ**аться к #=Dativ u.\nобрат**иться #=v."
+  },
+  {
+    "quest": "wegfahren\nfortfahren",
+    "answer": "уехать #=v.\nуезжать #=uv."
+  },
+  {
+    "quest": "erstens",
+    "answer": "во-п**ервых"
+  },
+  {
+    "quest": "zweitens",
+    "answer": "во-втор**ых"
+  },
+  {
+    "quest": "im Begriff sein (etwas zutun)\nbeabsichtigen \nvorhaben",
+    "answer": "собир**аться #=uv.\nсобр**аться #=v.",
+    "details": "я собираюсь путешествовать\n#=ich werde reisen\nсобрать #=sammeln\nбрать #=nehmen"
+  },
+  {
+    "quest": "plötzlich \nunerwartet",
+    "answer": "неож**иданно"
+  },
+  {
+    "quest": "(zu Fuß) ankommen",
+    "answer": "прийти #=v.\nприходить #=uv."
+  },
+  {
+    "quest": "(mit dem Flugzeug) ankommen",
+    "answer": "прилет**ать #=uv.\nприлет**еть #=v."
+  },
+  {
+    "quest": "wünschen",
+    "answer": "жел**ать #=uv.\nпожел**ать #=v"
+  },
+  {
+    "quest": "Wunsch",
+    "answer": "пожел**ание",
+    "details": "auch=# жел**ание"
+  },
+  {
+    "quest": "Entscheidung",
+    "answer": "реш**ение",
+    "details": "решить #=entscheiden\nразрешить #=erlauben"
+  },
+  {
+    "quest": "jemanden gratulieren",
+    "answer": "поздр**авить #=v.\nпоздравлять #=uv.",
+    "details": "поздравление #=Gratulation"
+  },
+  {
+    "quest": "hier=# Abreise, Abfahrt",
+    "answer": "отправл**ение"
+  },
+  {
+    "quest": "hier=# Ziel",
+    "answer": "назнач**ение",
+    "details": "пункт назначения #=Reiseziel"
+  },
+  {
+    "quest": "Ankunft",
+    "answer": "приб**ытие",
+    "details": "прибыть #=v. \nприбывать #=u.\n#=ankommen\nпребывание #=Aufenthalt"
+  },
+  {
+    "quest": "hier=# Fahrzeiten",
+    "answer": "гр**афик"
+  }
+]

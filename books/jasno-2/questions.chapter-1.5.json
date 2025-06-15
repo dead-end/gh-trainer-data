@@ -1,0 +1,139 @@
+[
+  {
+    "quest": "Schlaf\nSchlafen",
+    "answer": "сон",
+    "details": "сна #=Gen. Sg."
+  },
+  {
+    "quest": "Creme",
+    "answer": "крем",
+    "details": "крем для рук #=Hand Creme"
+  },
+  {
+    "quest": "Handgepäck",
+    "answer": "ручн**ой баг**аж"
+  },
+  {
+    "quest": "Fotoausrüstung",
+    "answer": "фотот**ехника"
+  },
+  {
+    "quest": "schlafen",
+    "answer": "посп**ать #=v.",
+    "details": "(я) поспл**ю\n(ты) посп**ишь\n(он/она/оно) поспит\n(мы) поспим\n(вы) поспите\n(они) посп**ят"
+  },
+  {
+    "quest": "kompakt",
+    "answer": "комп**актный\nкомп**актная\nкомп**актное\nкомп**актные"
+  },
+  {
+    "quest": "Rucksack",
+    "answer": "рюкз**ак"
+  },
+  {
+    "quest": "Megabyte",
+    "answer": "мегаб**айт"
+  },
+  {
+    "quest": "erfolgreich \ngelungen",
+    "answer": "уд**ачный\nуд**ачная\nуд**ачное\nуд**ачные"
+  },
+  {
+    "quest": "Einkauf",
+    "answer": "пок**упка",
+    "details": "пок**упок #=Gen. Pl."
+  },
+  {
+    "quest": "ugs.=# cool",
+    "answer": "крут**ой\nкрут**ая\nкрут**ое\nкрут**ые"
+  },
+  {
+    "quest": "Antwort",
+    "answer": "отв**ет"
+  },
+  {
+    "quest": "Format",
+    "answer": "форм**ат"
+  },
+  {
+    "quest": "Spontanität",
+    "answer": "спонт**анность"
+  },
+  {
+    "quest": "Adrenalin",
+    "answer": "адренал**ин"
+  },
+  {
+    "quest": "Expedition",
+    "answer": "экспед**иция"
+  },
+  {
+    "quest": "örtlich\nlokal",
+    "answer": "м**естный\nм**естная\nм**естное\nм**естные"
+  },
+  {
+    "quest": "eine Frage stellen",
+    "answer": "зад**ать вопр**ос #=v.\nзадав**ать вопр**ос #=uv.",
+    "details": "задать\n(я) задам\n(ты) задашь\n(он/она/оно) задаст\n(мы) зададим\n(вы) зададите\n(они) зададут"
+  },
+  {
+    "quest": "hier:=# Kurspartner",
+    "answer": "сок**урсник"
+  },
+  {
+    "quest": "erstaunlich",
+    "answer": "удив**ительный\nудив**ительная\nудив**ительное\nудив**ительные"
+  },
+  {
+    "quest": "Region",
+    "answer": "край",
+    "details": "в кра**ю #=in der Region"
+  },
+  {
+    "quest": "Zivilisation",
+    "answer": "цивилиз**ация"
+  },
+  {
+    "quest": "hier:=# Wander-\nFußgänger-",
+    "answer": "пешех**одный\nпешех**одная\nпешех**одное\nпешех**одные",
+    "details": "пешком #=zu Fuß"
+  },
+  {
+    "quest": "Hubschrauber-",
+    "answer": "вертолётный\nвертолётная\nвертолётное\nвертолётные"
+  },
+  {
+    "quest": "kombiniert",
+    "answer": "комбин**ированный\nкомбин**ированная\nкомбин**ированное\nкомбин**ированные"
+  },
+  {
+    "quest": "See-\nMeeres-",
+    "answer": "морск**ой",
+    "details": "морск**ая прог**улка\n#=Ausflug mit dem Schiff"
+  },
+  {
+    "quest": "Fontäne",
+    "answer": "фонт**ан"
+  },
+  {
+    "quest": "stellen",
+    "answer": "пост**авить #=v.\nст**авить #=uv.",
+    "details": "(я) поставлю\n(ты) поставишь\n(он/она/оно) поставит\n(мы) поставим\n(вы) поставите\n(они) поставят\n\nстоять #=stehen"
+  },
+  {
+    "quest": "irgendein",
+    "answer": "как**ой-то\nкак**ая-то\nкак**ое-то\nкак**ие-то"
+  },
+  {
+    "quest": "Vase",
+    "answer": "в**аза"
+  },
+  {
+    "quest": "Waffe",
+    "answer": "ор**ужие"
+  },
+  {
+    "quest": "Droge",
+    "answer": "нарк**отик"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "quest": "Sehenswürdigkeit",
+    "answer": "достопримеч**ательность #=f"
+  },
+  {
+    "quest": "Eremitage",
+    "answer": "Эрмит**аж"
+  },
+  {
+    "quest": "Peterhof",
+    "answer": "Петерг**оф"
+  },
+  {
+    "quest": "Katharinenpalast",
+    "answer": "Екатер**ининский двор**ец"
+  },
+  {
+    "quest": "Peter-und-Paul-Festung",
+    "answer": "Петроп**авловская кр**епость #=f"
+  },
+  {
+    "quest": "Sommer-",
+    "answer": "летний\nлетняя\nлетнее\nлетние"
+  },
+  {
+    "quest": "Zarenresidenz",
+    "answer": "импер**аторская резид**енция"
+  },
+  {
+    "quest": "Küste\nUfer",
+    "answer": "б**ерег",
+    "details": "берег**а #=Nom. Pl.\nна берег**у #=Präp. Sg."
+  },
+  {
+    "quest": "Finnischer Meerbusen",
+    "answer": "Ф**инский зал**ив"
+  },
+  {
+    "quest": "Welt-",
+    "answer": "миров**ой\nмиров**ая\nмиров**ое\nмиров**ые"
+  },
+  {
+    "quest": "Haseninsel",
+    "answer": "З**аячий **остров",
+    "details": "**остров #=Insel\nзаячья нога #=Hasenfuß"
+  },
+  {
+    "quest": "anfangen #=v.\nbeginnen #=v.",
+    "answer": "нач**аться #=v.\nначин**аться #=uv."
+  },
+  {
+    "quest": "Bau\nErrichtung",
+    "answer": "стро**ительство"
+  },
+  {
+    "quest": "Zarskoje Selo",
+    "answer": "Ц**арское Сел**о"
+  },
+  {
+    "quest": "weltbekannt",
+    "answer": "всем**ирно изв**естный\nвсем**ирно изв**естная\nвсем**ирно изв**естное\nвсем**ирно изв**естные"
+  },
+  {
+    "quest": "Bernsteinzimmer",
+    "answer": "Янт**арная к**омната"
+  },
+  {
+    "quest": "anfangen #=uv.\nbeginnen #=uv.",
+    "answer": "начин**аться #=uv."
+  },
+  {
+    "quest": "Jahrhundert",
+    "answer": "век"
+  },
+  {
+    "quest": "Privatsammlung",
+    "answer": "ч**астная колл**екция",
+    "details": "ч**астный #=privat"
+  },
+  {
+    "quest": "Gebäudekomplex",
+    "answer": "к**омплекс"
+  },
+  {
+    "quest": "Winterpalast",
+    "answer": "З**имний двор**ец"
+  },
+  {
+    "quest": "nennen",
+    "answer": "назв**ать #=v.\nназыв**ать #=uv.",
+    "details": "назыв**аться #=heißen"
+  },
+  {
+    "quest": "passt genau\ngerade",
+    "answer": "как раз"
+  },
+  {
+    "quest": "(zeitlich) schaffen (etw. zu tun)",
+    "answer": "усп**еть #=v.\nуспев**ать #=uv.",
+    "details": "я усп**ею\nты усп**еешь\nон / она / оно усп**еет\nмы усп**еем\nвы усп**еете\nони усп**еют"
+  },
+  {
+    "quest": "Mariinski-Theater",
+    "answer": "Мари**инский те**атр"
+  },
+  {
+    "quest": "wörtl.:=# Prachtkerl, (als Lob) prima",
+    "answer": "молод**ец",
+    "details": "молодц**ы #=Nom. Pl.\nмолод**ой #=jung"
+  },
+  {
+    "quest": "berühmt, ruhmreich",
+    "answer": "знамен**итый\nзнамен**итая\nзнамен**итое\nзнамен**итые"
+  },
+  {
+    "quest": "es lohnt sich (etwas zu tun)",
+    "answer": "ст**оит",
+    "details": "ст**оить #=(etw.) kosten"
+  },
+  {
+    "quest": "übermorgen",
+    "answer": "послез**автра"
+  },
+  {
+    "quest": "(hin-) fahren",
+    "answer": "поехать #=v.\nехать #=uv.",
+    "details": "я поеду\nты поедешь\nон / она / оно поедет\nмы поедем\nвы поедете\nони поедут"
+  },
+  {
+    "quest": "solch ein\nso ein",
+    "answer": "так**ой\nтак**ая\nтак**ое\nтак**ие"
+  },
+  {
+    "quest": "kurz, kurzum",
+    "answer": "кор**оче"
+  }
+]

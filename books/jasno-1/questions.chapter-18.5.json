@@ -1,0 +1,128 @@
+[
+  {
+    "quest": "Rede",
+    "answer": "речь #=f"
+  },
+  {
+    "quest": "jährlich",
+    "answer": "ежег**одно"
+  },
+  {
+    "quest": "sich interessieren für …",
+    "answer": "интересов**аться #=v. (+) Instr.\nпоинтересоваться #=uv.",
+    "details": "интересов**аться\n(я) интерес**уюсь\n(ты) интерес**уешься\n(он/она/оно) интерес**уется\n(мы) интерес**уемся\n(вы) интерес**уетесь\n(они) интерес**уются"
+  },
+  {
+    "quest": "malerisch",
+    "answer": "живоп**исный\nживоп**исная\nживоп**исное\nживоп**исные"
+  },
+  {
+    "quest": "Teich",
+    "answer": "пруд\nпруд**ы #=Nom. Pl.\nна / в пруд**у #=Präp. Sg."
+  },
+  {
+    "quest": "märchenhaft",
+    "answer": "девичий"
+  },
+  {
+    "quest": "Ente",
+    "answer": "утка\nуток #=Gen. Pl."
+  },
+  {
+    "quest": "lebendig",
+    "answer": "жив**ой\nжив**ая\nжив**ое\nжив**ые"
+  },
+  {
+    "quest": "Eisen-",
+    "answer": "жел**езный\nжел**езная\nжел**езное\nжел**езные "
+  },
+  {
+    "quest": "kleine Ente",
+    "answer": "**уточка\n**уточек #=Gen. Pl."
+  },
+  {
+    "quest": "Kopie",
+    "answer": "к**опия"
+  },
+  {
+    "quest": "Skulptur",
+    "answer": "скульпт**ура"
+  },
+  {
+    "quest": "schenken",
+    "answer": "подар**ить #=v.\nдар**ить #=uv."
+  },
+  {
+    "quest": "ehemalig\nEx-",
+    "answer": "б**ывший\nб**ывшая\nб**ывшее\nб**ывшие"
+  },
+  {
+    "quest": "Held",
+    "answer": "гер**ой"
+  },
+  {
+    "quest": "Märchen",
+    "answer": "ск**азка\nск**азок #=Gen. Pl."
+  },
+  {
+    "quest": "Schriftsteller",
+    "answer": "пис**атель #=m"
+  },
+  {
+    "quest": "hinaufgehen\n-steigen\nhochgehen",
+    "answer": "подн**яться #=v. Futur\nподним**аться #=uv.",
+    "details": "подним**аться\n(я) подним**усь\n(ты) под**нимешься\n(он/она/оно) подн**имется\n(мы) подн**имемся\n(вы) подн**иметесь\n(они) подн**имутся"
+  },
+  {
+    "quest": "frostig",
+    "answer": "мор**озный\nмор**озная\nмор**озное\nмор**озные",
+    "details": "- мороз #=Frost\n- мороженое #=Eis"
+  },
+  {
+    "quest": "Chance",
+    "answer": "шанс"
+  },
+  {
+    "quest": "bewundern\nbestaunen",
+    "answer": "полюбов**аться #=v. Futur (+) Instr.\nлюбов**аться #=uv.",
+    "details": "полюбов**аться\n(я) полюб**уюсь\n(ты) полюб**уешься\n(он/она/оно) полюб**уется\n(мы) полюб**уемся\n(вы) полюб**уетесь\n(они) полюб**уются"
+  },
+  {
+    "quest": "eisig\nvereist",
+    "answer": "ледян**ой\nледян**ая\nледян**ое\nледян**ые",
+    "details": "Ледовый дворец #=Eispalast"
+  },
+  {
+    "quest": "hier:=# Alkohol trinken\netw. trinken\nanstoßen",
+    "answer": "в**ыпить #=v. Futur\nвыпив**ать #=uv.",
+    "details": "в**ыпить\n(я) в**ыпью\n(ты) в**ыпьешь\n(он/она/оно) в**ыпьет\n(мы) в**ыпьем\n(вы) в**ыпьете\n(они) в**ыпьют"
+  },
+  {
+    "quest": "Wodka",
+    "answer": "в**одка"
+  },
+  {
+    "quest": "als Vorspeise",
+    "answer": "на зак**уску",
+    "details": "кусок #=Stück"
+  },
+  {
+    "quest": "essen\naufessen",
+    "answer": "съесть #=v. Futur\nесть #=uv.",
+    "details": "съесть\n(я) съем\n(ты) съешь\n(он/она/оно) съест\n(мы) съед**им\n(вы) съед**ите\n(они) съед**ят"
+  },
+  {
+    "quest": "vollständig",
+    "answer": "п**олностью",
+    "details": "полный #=voll, komplett"
+  },
+  {
+    "quest": "Glas-",
+    "answer": "стекл**янный\nстекл**янная\nстекл**янное\nстекл**янные"
+  },
+  {
+    "quest": "Wärme",
+    "answer": "тепл#=о",
+    "details": "теплоход #=Motorschiff"
+  }
+]

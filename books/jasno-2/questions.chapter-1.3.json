@@ -1,0 +1,152 @@
+[
+  {
+    "quest": "täglich",
+    "answer": "ежедн**евно"
+  },
+  {
+    "quest": "anfangen\nbeginnen",
+    "answer": "начинаться #=uv.\nначаться #=v."
+  },
+  {
+    "quest": "Einsteigen (in den Zug)",
+    "answer": "пос**адка (на п**оезд)"
+  },
+  {
+    "quest": "Seite",
+    "answer": "сторон**а"
+  },
+  {
+    "quest": "Zuganfang",
+    "answer": "голов**а п**оезда",
+    "details": "голов**а #=Kopf"
+  },
+  {
+    "quest": "Zugende",
+    "answer": "хвост п**оезда",
+    "details": "хвост #=Schwanz"
+  },
+  {
+    "quest": "am Gleis ankommen",
+    "answer": "прибыв**ать на путь #=uv.\nприб**ыть на путь #=v."
+  },
+  {
+    "quest": "Firmen-\nMarken-",
+    "answer": "ф**ирменный\nф**ирменная\nф**ирменное\nф**ирменные"
+  },
+  {
+    "quest": "Nummerierung",
+    "answer": "нумер**ация"
+  },
+  {
+    "quest": "rasch\nschnell",
+    "answer": "ск**орый\nскорая\nскорое\nскорые",
+    "details": "ск**орый п**оезд\n#=Schnellzug\nскорая помощь f\n#=Krankenwagen"
+  },
+  {
+    "quest": "aufmerksam",
+    "answer": "вним**ательный\nвнимательная\nвнимательное\nвнимательные",
+    "details": "вним**ание #=Aufmerksamkeit"
+  },
+  {
+    "quest": "vorsichtig",
+    "answer": "остор**ожный\nосторожная\nосторожное\nосторожные",
+    "details": "остор**ожен #=kurz"
+  },
+  {
+    "quest": "einige",
+    "answer": "н**екоторые #=pl."
+  },
+  {
+    "quest": "Angst haben\nsich fürchten",
+    "answer": "бо**яться",
+    "details": "(я) боюсь\n(ты) боишься\n(он/она/оно) боится\n(мы) боимся\n(вы) боитесь\n(они) боятся"
+  },
+  {
+    "quest": "ungefährlich",
+    "answer": "безоп**асный",
+    "details": "оп**асность #=Gefahr\nнеожиданно #=plötzlich"
+  },
+  {
+    "quest": "Statistik",
+    "answer": "стат**истика"
+  },
+  {
+    "quest": "Change",
+    "answer": "шанс"
+  },
+  {
+    "quest": "vorher\nim Voraus",
+    "answer": "заранее",
+    "details": "рано #=früh\nранее #=früher"
+  },
+  {
+    "quest": "Zugabteil",
+    "answer": "куп**е #=indekl."
+  },
+  {
+    "quest": "hier=# Luxusklasse",
+    "answer": "люкс #=nur Sg."
+  },
+  {
+    "quest": "arm",
+    "answer": "Бедный\nБедная\nБедное\nБедные",
+    "details": "Беден #=kurz"
+  },
+  {
+    "quest": "Platzkarten-",
+    "answer": "плацк**артный"
+  },
+  {
+    "quest": "Wagon",
+    "answer": "ваг**он",
+    "details": "плацк**артный вагон"
+  },
+  {
+    "quest": "Express Zug",
+    "answer": "экспр**есс",
+    "details": "Транссибирский экспресс"
+  },
+  {
+    "quest": "Romantiker / in",
+    "answer": "ром**антик"
+  },
+  {
+    "quest": "Leute\nJungs",
+    "answer": "реб**ята\n#Pl. informelle Anrede#"
+  },
+  {
+    "quest": "touristisch",
+    "answer": "туристический"
+  },
+  {
+    "quest": "Wie laufen die Geschäfte?",
+    "answer": "Как идёт ваш б**изнес?"
+  },
+  {
+    "quest": "Lockdown",
+    "answer": "локд**аун"
+  },
+  {
+    "quest": "abhängen von",
+    "answer": "зав**исеть от",
+    "details": "(я) завишу\n(ты) зависишь\n(он/она/оно) зависит\n(мы) зависим\n(вы) зависите\n(они) зависят"
+  },
+  {
+    "quest": "hervorheben",
+    "answer": "выделить #=v.\nвыделять #=uv.",
+    "details": "делить #=trennen, teilen"
+  },
+  {
+    "quest": "Teenager",
+    "answer": "тин**ейджер"
+  },
+  {
+    "quest": "über vierzig (Alter)",
+    "answer": "за с**орок"
+  },
+  {
+    "quest": "vermögend",
+    "answer": "состо**ятельный",
+    "details": "состо**яние #=Vermögen, Reichtum\nрассто**яние #=Entfernung"
+  }
+]

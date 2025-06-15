@@ -1,0 +1,144 @@
+[
+  {
+    "quest": "Eheschließung",
+    "answer": "заключ**ение бр**ака"
+  },
+  {
+    "quest": "Propaganda",
+    "answer": "пропаг**анда"
+  },
+  {
+    "quest": "Homophobie",
+    "answer": "гомрф**обия"
+  },
+  {
+    "quest": "in dieser Hinsicht",
+    "answer": "в **этом пл**ане"
+  },
+  {
+    "quest": "handeln",
+    "answer": "д**ействовать #=nur uv.",
+    "details": "д**ействие #=Handlung\nдействительно #=tatsächlich"
+  },
+  {
+    "quest": "ignorieren",
+    "answer": "игнор**ировать #=uv.\nпроигнор**ировать #=v."
+  },
+  {
+    "quest": "hier=# vor #=zeitlich",
+    "answer": "наз**ад"
+  },
+  {
+    "quest": "welcher\nder",
+    "answer": "кот**орый\nкот**орая\nкот**орое\nкот**орые"
+  },
+  {
+    "quest": "golden\ngoldene\nGold-",
+    "answer": "золот**ой \nзолот**ая",
+    "details": "золот**ая св**адьба"
+  },
+  {
+    "quest": "Filiale\nZweigstelle",
+    "answer": "фили**ал"
+  },
+  {
+    "quest": "sein Leben verbringen",
+    "answer": "прож**ить сво**ю жизнь #=v.",
+    "details": "прожить #=durchleben"
+  },
+  {
+    "quest": "hier=# nach #=einem Zeitraum\nin #=einem Zeitraum",
+    "answer": "через #=+Akk."
+  },
+  {
+    "quest": "dumm",
+    "answer": "гл**упый\nгл**упая\nгл**упое\nгл**упые"
+  },
+  {
+    "quest": "Scherz\nWitz",
+    "answer": "ш**утка",
+    "details": "Что за гл**упые ш**утки?\nWas für dumme Witze?=#"
+  },
+  {
+    "quest": "Bankett\nFestessen",
+    "answer": "банк**ет"
+  },
+  {
+    "quest": "unglücklich \nerfolglos",
+    "answer": "неуд**ачный\nнеуд**ачная\nнеуд**ачное\nнеуд**ачные",
+    "details": "удачный #=erfolgreich, gelungen"
+  },
+  {
+    "quest": "silbern\nSilber-",
+    "answer": "сер**ебряный\nсер**ебряная\nсер**ебряное\nсер**ебряные",
+    "details": "сер**ебряная свадьба"
+  },
+  {
+    "quest": "Kongress",
+    "answer": "конгр**есс"
+  },
+  {
+    "quest": "LGBT",
+    "answer": "ЛГБТ"
+  },
+  {
+    "quest": "kirchliche Trauung",
+    "answer": "венч**ание"
+  },
+  {
+    "quest": "feierlich\nfestlich",
+    "answer": "торж**ественный\nторж**ественная\nторж**ественное\nторж**ественные"
+  },
+  {
+    "quest": "Hochzeits-",
+    "answer": "св**адебный\nсв**адебная\nсв**адебное\nсв**адебные",
+    "details": "св**адебное пут**ешествие \nHochzeitsreise=#"
+  },
+  {
+    "quest": "sich erinnern",
+    "answer": "всп**омнить #=v. +Akk.\nвспомин**ать #=uv.",
+    "details": "помнить #=wissen, sich erinnern\nпамятник #=Denkmal"
+  },
+  {
+    "quest": "Heiratsantrag",
+    "answer": "предлож**ение рук**и и с**ердца"
+  },
+  {
+    "quest": "Gedichte\nVerse",
+    "answer": "стихи #=Pl."
+  },
+  {
+    "quest": "zurückkommen \nzurückkehren",
+    "answer": "верн**уться #=v.\nвозвращ**аться #=uv."
+  },
+  {
+    "quest": "stattfinden",
+    "answer": "состо**яться #=nur v. 3. Pl.\nсосто**ится \nсосто**ятся",
+    "details": "состоять #=(aus etwas) bestehen"
+  },
+  {
+    "quest": "Seele",
+    "answer": "душ**а"
+  },
+  {
+    "quest": "mitteilen \nbenachrichtigen",
+    "answer": "сообщ**ить #=v.\nсообщ**ать #=uv.",
+    "details": "сообщение #=Bericht, Beitrag\nобщение #=Kommunikation"
+  },
+  {
+    "quest": "unvergesslich",
+    "answer": "незабыв**аемый\nнезабыв**аемая\nнезабыв**аемое\nнезабыв**аемые"
+  },
+  {
+    "quest": "Studenten-",
+    "answer": "студ**енческий\nстуд**енческая\nстуд**енческое\nстуд**енческие"
+  },
+  {
+    "quest": "Trauzeugin",
+    "answer": "свид**етельница"
+  },
+  {
+    "quest": "Brautfreikauf",
+    "answer": "в**ыкуп нев**есты"
+  }
+]

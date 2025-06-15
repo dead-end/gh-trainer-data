@@ -1,0 +1,138 @@
+[
+  {
+    "quest": "Versailles",
+    "answer": "Верс**аль #=m"
+  },
+  {
+    "quest": "kleines Haus",
+    "answer": "д**омик"
+  },
+  {
+    "quest": "Isaakskathedrale",
+    "answer": "Иса**акиевский соб**ор"
+  },
+  {
+    "quest": "Marmor",
+    "answer": "мр**амор"
+  },
+  {
+    "quest": "Rat\nRatschlag",
+    "answer": "совет",
+    "details": "сов**етовать #=raten, empfehlen"
+  },
+  {
+    "quest": "Sender\nKanal",
+    "answer": "кан**ал"
+  },
+  {
+    "quest": "Lass uns …",
+    "answer": "Дав**ай …"
+  },
+  {
+    "quest": "sich erinnern\nnoch wissen",
+    "answer": "п**омнить #=uv."
+  },
+  {
+    "quest": "einverstanden (sein)",
+    "answer": "согл**асен\nсогл**асна\nсогл**асны"
+  },
+  {
+    "quest": "sich treffen mit",
+    "answer": "встретиться с #=v. (+) Instr.",
+    "details": "я встречусь с\nты встретишься с\nон / она / оно встретится с\nмы встретимся с\nвы встретитесь с\nони встретятся с"
+  },
+  {
+    "quest": "(hin-) gehen",
+    "answer": "пойти #=v.\nидти #=uv.",
+    "details": "я пойду\nты пойдёшь\nон / она / оно пойдёт\nмы пойдём\nвы пойдёте\nони пойдут"
+  },
+  {
+    "quest": "hier:=# Reise, Ausflug",
+    "answer": "по**ездка",
+    "details": "ездить #=fahren"
+  },
+  {
+    "quest": "verbringen",
+    "answer": "провести #=v.\nпроводить #=uv.",
+    "details": "я проведу\nты проведёшь\nон / она / оно проведёт\nмы проведём\nвы проведёте\nони проведут"
+  },
+  {
+    "quest": "qualitativ\nhochwertig",
+    "answer": "к**ачественный\nк**ачественная\nк**ачественное\nк**ачественные",
+    "details": "качество #=Qualität"
+  },
+  {
+    "quest": "Familien-",
+    "answer": "сем**ейный\nсем**ейная\nсем**ейное\nсем**ейные"
+  },
+  {
+    "quest": "hier:=# interessieren\nattraktiv finden",
+    "answer": "привлек**ать #=uv."
+  },
+  {
+    "quest": "Kiefernwald",
+    "answer": "сосн**овый лес"
+  },
+  {
+    "quest": "still",
+    "answer": "т**ихий\nт**ихая\nт**ихое\nт**ихие"
+  },
+  {
+    "quest": "Unterkunft",
+    "answer": "прожив**ание"
+  },
+  {
+    "quest": "Verpflegung",
+    "answer": "пит**ание"
+  },
+  {
+    "quest": "fürsorglich\naufmerksam",
+    "answer": "заб**отливый\nзаб**отливая\nзаб**отливое\nзаб**отливые"
+  },
+  {
+    "quest": "Personal",
+    "answer": "персон**ал"
+  },
+  {
+    "quest": "mit (den) Kindern",
+    "answer": "с детьм**и"
+  },
+  {
+    "quest": "ein Dampfbad nehmen",
+    "answer": "п**ариться #=uv.",
+    "details": "я п**арюсь\nты п**аришься\nон/она/оно п**арится\nмы п**аримся\nвы п**аритесь\nони п**арятся"
+  },
+  {
+    "quest": "unter Aufsicht",
+    "answer": "под присм**отром"
+  },
+  {
+    "quest": "qualifiziert",
+    "answer": "квалифиц**ированный\nквалифиц**ированная\nквалифиц**ированное\nквалифиц**ированные "
+  },
+  {
+    "quest": "Kindermädchen",
+    "answer": "н**яня"
+  },
+  {
+    "quest": "organisieren",
+    "answer": "организовать #=uv. / v."
+  },
+  {
+    "quest": "Pony",
+    "answer": "пони #=m indekl."
+  },
+  {
+    "quest": "sich sicher sein",
+    "answer": "ув**ерен\nув**ерена\nув**ерены",
+    "details": "верить #=uv. gauben"
+  },
+  {
+    "quest": "einplanen",
+    "answer": "заплан**ировать #=v."
+  },
+  {
+    "quest": "zu Ende gehen",
+    "answer": "зак**анчиваться #=uv."
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "quest": "Moderator bei einer Hochzeit",
+    "answer": "тамад**а #=m."
+  },
+  {
+    "quest": "Toast auf\nTrinkspruch",
+    "answer": "тост за #=+Akk."
+  },
+  {
+    "quest": "frisch verheiratetes Paar",
+    "answer": "молодожёны #=nur Pl.",
+    "details": "молодожёнов #=Gen."
+  },
+  {
+    "quest": "bitter",
+    "answer": "г**орький\nг**орькая\nг**орькое\nг**орькие"
+  },
+  {
+    "quest": "schreien\nlaut rufen",
+    "answer": "крич**ать #=uv.\nкр**икнуть #=v."
+  },
+  {
+    "quest": "hier=# einen Toast aussprechen",
+    "answer": "в**ыпить за #=v.\nвыпив**ать за #=uv.",
+    "details": "выпить #=trinken, zutrinken, austrinken"
+  },
+  {
+    "quest": "Wort",
+    "answer": "сл**ово",
+    "details": "сл**ово дать #=sein Wort geben \nслов**а #=Pl."
+  },
+  {
+    "quest": "Rede",
+    "answer": "речь #=f."
+  },
+  {
+    "quest": "Depression",
+    "answer": "депр**ессия"
+  },
+  {
+    "quest": "verdienen",
+    "answer": "зараб**отать #=v.\nзараб**атывать #=uv."
+  },
+  {
+    "quest": "Oligarch",
+    "answer": "олиг**арх"
+  },
+  {
+    "quest": "hören\nvernehmen",
+    "answer": "сл**ышать #=uv.\nусл**ышать #=v."
+  },
+  {
+    "quest": "formulieren",
+    "answer": "сформул**ировать #=v.\nформул**ировать #=uv."
+  },
+  {
+    "quest": "zukünftig",
+    "answer": "Б**удущий\nБ**удущая\nБ**удущее\nБ**удущие",
+    "details": "Б**удущее время \nhier=# Futur"
+  },
+  {
+    "quest": "spielen\naufführen",
+    "answer": "разыгр**ать #=v.\nраз**ыгрывать #=u ."
+  },
+  {
+    "quest": "vergangen",
+    "answer": "прош**едший",
+    "details": "прош**едшее вр**емя\nhier=# Präteritum"
+  },
+  {
+    "quest": "Dienst",
+    "answer": "сл**ужба",
+    "details": "богослужение #=Gottesdienst"
+  },
+  {
+    "quest": "psychologisch",
+    "answer": "психолог**ический",
+    "details": "служба психологической помощи \n#=psychlogische Beratungsstelle"
+  },
+  {
+    "quest": "lebens-",
+    "answer": "ж**изненный\nж**изненная\nж**изненное\nж**изненные"
+  },
+  {
+    "quest": "sich einmischen",
+    "answer": "вмеш**аться #=v.\nвм**ешиваться #=uv."
+  },
+  {
+    "quest": "Patchworkfamilie",
+    "answer": "п**ечворк-семь**я"
+  },
+  {
+    "quest": "ehemalig",
+    "answer": "б**ывший\nб**ывшая\nб**ывшое\nб**ывшие"
+  },
+  {
+    "quest": "alleinerziehende Mutter",
+    "answer": "мать-один**очка #=Nom.Pl."
+  },
+  {
+    "quest": "hier=# Telefonleitung",
+    "answer": "л**иния"
+  },
+  {
+    "quest": "Wohnungsprobleme",
+    "answer": "кварт**ирный вопр**ос"
+  },
+  {
+    "quest": "(eine Wohnung) vermieten",
+    "answer": "сним**ать #=uv.\nснять #=v.",
+    "details": "арендовать"
+  },
+  {
+    "quest": "vereinbaren\nin Einklang bringen",
+    "answer": "совмещ**ать #=uv.\nсовмест**ить #=v."
+  },
+  {
+    "quest": "alleinerziehender Vater",
+    "answer": "от**ец-один**очка"
+  },
+  {
+    "quest": "einsam",
+    "answer": "один**окий\nодин**окая\nодин**окое\nодин**окие"
+  },
+  {
+    "quest": "Freude",
+    "answer": "р**адость #=f."
+  },
+  {
+    "quest": "Erziehung",
+    "answer": "воспит**ание",
+    "details": "питание #=Verpflegung"
+  },
+  {
+    "quest": "klug\nschlau",
+    "answer": "**умный\n**умная\n**умное\n**умные"
+  },
+  {
+    "quest": "Bekanntschaft \nKennenlernen",
+    "answer": "знак**омство"
+  }
+]

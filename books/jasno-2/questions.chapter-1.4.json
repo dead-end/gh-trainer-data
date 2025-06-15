@@ -1,0 +1,146 @@
+[
+  {
+    "quest": "nach jemandes Sinn / Geschmack",
+    "answer": "по душ**е",
+    "details": "душа #=Seele"
+  },
+  {
+    "quest": "mein\ndein\nsein\nihr\n…",
+    "answer": "свой\nсво**я\nсвоё\nсво**и"
+  },
+  {
+    "quest": "Extrem Sport",
+    "answer": "экстр**им"
+  },
+  {
+    "quest": "Berg-",
+    "answer": "г**орный\nг**орная\nг**орное\nг**орные"
+  },
+  {
+    "quest": "Abfahrt Ski",
+    "answer": "г**орные л**ыжи #=Pl."
+  },
+  {
+    "quest": "Zelt-",
+    "answer": "пал**аточныи\nпал**аточная\nпал**аточное\nпал**аточные",
+    "details": "пал**атка #=Zelt"
+  },
+  {
+    "quest": "Nordkaukasus",
+    "answer": "С**еверный Кавк**аз"
+  },
+  {
+    "quest": "unter\ninmitten",
+    "answer": "сред**и #=Gen.",
+    "details": "среда #=Mitte"
+  },
+  {
+    "quest": "Abenteuer",
+    "answer": "приключ**ение"
+  },
+  {
+    "quest": "Altersgenosse",
+    "answer": "ров**есник"
+  },
+  {
+    "quest": "Geography",
+    "answer": "геогр**афия"
+  },
+  {
+    "quest": "sich auskennen in",
+    "answer": "разбир**аться в #=uv. + Prä.\nразобр**аться #=v.",
+    "details": "разбираться\n(я) разбираюсь\n(ты) разбираешься\n(он/она/оно) разбирается\n(мы) разбираемся\n(вы) разбираетесь\n(они) разбираются"
+  },
+  {
+    "quest": "Kreuzfahrt",
+    "answer": "кру**из"
+  },
+  {
+    "quest": "Sibirische",
+    "answer": "сиб**ирский\nсиб**ирская\nсиб**иское\nсиб**ирские"
+  },
+  {
+    "quest": "komfortabel \nbequem",
+    "answer": "комф**ортный\nкомф**ортная\nкомф**ортное\nкомф**ортные"
+  },
+  {
+    "quest": "Verfahren\nHeilverfahren",
+    "answer": "процед**ура",
+    "details": "проходить процедуры\n#=sich durch ein Heilverfahren behandeln lassen"
+  },
+  {
+    "quest": "therapeutisch\nHeil-",
+    "answer": "леч**ебный\nлеч**ебная\nлеч**ебное\nлеч**ебные",
+    "details": "- лечение #=Behandlung, Kur\n- лечить #=heilen, behandeln\n- лекарство #=Medizin"
+  },
+  {
+    "quest": "unabhängig",
+    "answer": "незав**исимый\nнезав**исимая\nнезав**исимое\nнезав**исимые",
+    "details": "#=kurz\nнезав**исим\nнезав**исима\nнезав**исимо\nнезав**исимы\n\nзависеть от #=abhängen von"
+  },
+  {
+    "quest": "aktiv",
+    "answer": "акт**ивный\nакт**ивная\nакт**ивное\nакт**ивные"
+  },
+  {
+    "quest": "träumen von",
+    "answer": "мечт**ать о #=uv. + Präp."
+  },
+  {
+    "quest": "realisieren\nverwirklichen",
+    "answer": "исп**олнить #=v.\nисполн**ять #=uv.",
+    "details": "выполнять задание\n#=eine Aufgabe machen"
+  },
+  {
+    "quest": "Traum",
+    "answer": "мечт**а"
+  },
+  {
+    "quest": "(be)zahlen",
+    "answer": "плат**ить #=uv.\nзаплат**ить #=v.",
+    "details": "(я) плачу\n(ты) платишь\n(он/она/оно) платит\n(мы) платим\n(вы) платите\n(они) платят\n\nзарпл**ата #=Gehalt"
+  },
+  {
+    "quest": "Individualist",
+    "answer": "индивидуал**ист"
+  },
+  {
+    "quest": "sich etw. leisten",
+    "answer": "позволить себ**е #=v.\nпозвол**ять себ**е #=uv.",
+    "details": "позволить\n#=jem. etw. erlauben / gestatten / ermöglichen"
+  },
+  {
+    "quest": "weit\nfern\nentfernt entlegen",
+    "answer": "д**альний\nд**альняя\nд**альнее\nд**альние"
+  },
+  {
+    "quest": "Heli Ski",
+    "answer": "х**ели-ски #=m. indekl."
+  },
+  {
+    "quest": "Rad Tourismus",
+    "answer": "велотур**изм"
+  },
+  {
+    "quest": "Meinung",
+    "answer": "мн**ение"
+  },
+  {
+    "quest": "Safari",
+    "answer": "саф**ари #=n. indekl."
+  },
+  {
+    "quest": "fern\nweit\nentfernt",
+    "answer": "далёкий\nдалёкая\nдалёкое\nдалёкие"
+  },
+  {
+    "quest": "Maske",
+    "answer": "м**аска",
+    "details": "м**асок #=Gen. Pl."
+  },
+  {
+    "quest": "Kissen",
+    "answer": "под**ушка",
+    "details": "под**ушек #=Gen. Pl."
+  }
+]

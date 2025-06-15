@@ -1,0 +1,122 @@
+[
+  {
+    "quest": "speziell\nSpezial-",
+    "answer": "специ**альный\nспеци**альная\nспеци**альное\nспеци**альные"
+  },
+  {
+    "quest": "Test",
+    "answer": "тест"
+  },
+  {
+    "quest": "Analysegerät",
+    "answer": "анализ**атор"
+  },
+  {
+    "quest": "Bargeld",
+    "answer": "нал**ичные (д**еньги)",
+    "details": "л**ичный #=persönlich"
+  },
+  {
+    "quest": "Zoll-\nZollkontrolle",
+    "answer": "там**оженный\nтам**оженная\nтам**оженное\nтам**оженные",
+    "details": "там**оженный контр**оль"
+  },
+  {
+    "quest": "Sache\nDing",
+    "answer": "вещь #=f",
+    "details": "вещ**ей #=Gen. Pl."
+  },
+  {
+    "quest": "deklarieren\nbeim Zoll anmelden",
+    "answer": "деклар**ировать #= v. / uv."
+  },
+  {
+    "quest": "Zollbeamter \nZöllner",
+    "answer": "там**оженник"
+  },
+  {
+    "quest": "denken",
+    "answer": "под**умать #=v."
+  },
+  {
+    "quest": "kontrollieren",
+    "answer": "проконтролировать #=v.\nконтролировать #=uv."
+  },
+  {
+    "quest": "benötigt (werden) für",
+    "answer": "н**ужен \nнужн**а\nн**ужно",
+    "details": "нужн**ы на что"
+  },
+  {
+    "quest": "Erlaubnis",
+    "answer": "разреш**ение",
+    "details": "решить #=entscheiden\nразрешить #=erlauben"
+  },
+  {
+    "quest": "Scheck",
+    "answer": "чек"
+  },
+  {
+    "quest": "Haupteisenbahnlinie",
+    "answer": "магистр**аль #=f",
+    "details": "Транссибирская магистраль"
+  },
+  {
+    "quest": "groß\nbedeutend",
+    "answer": "вел**икий\nвел**икая\nвел**икое\nвел**икие",
+    "details": "auch=# кр**упный"
+  },
+  {
+    "quest": "während \nin der Zeit von",
+    "answer": "во времен**а",
+    "details": "во время #=während"
+  },
+  {
+    "quest": "Russisches Reich",
+    "answer": "Росс**ийская имп**ерия"
+  },
+  {
+    "quest": "Zeitzone",
+    "answer": "часов**ой п**ояс",
+    "details": "пояс #=Gurt, Gürtel"
+  },
+  {
+    "quest": "Tag und Nacht \n24 Stunden",
+    "answer": "с**утки #=Pl."
+  },
+  {
+    "quest": "fremd\nausländisch",
+    "answer": "иностр**анный\nиностр**анная\nиностр**анное\nиностр**анные",
+    "details": "иностранец #=Ausländer\nстранный #=mekwürdig"
+  },
+  {
+    "quest": "Exkursionen-\nAusflugs-",
+    "answer": "экскурси**онный\nэкскурси**онная\nэкскурси**онное\nэкскурси**онные"
+  },
+  {
+    "quest": "hier=# Aufenthalt, Stopp",
+    "answer": "з**аезд"
+  },
+  {
+    "quest": "durchfahren\neine Strecke zurücklegen",
+    "answer": "про**ехать #=v.\nпроезж**ать #=uv."
+  },
+  {
+    "quest": "wissenschaftlich\nWissenschafts-",
+    "answer": "на**учный\nна**учная\nна**учное\nна**учные"
+  },
+  {
+    "quest": "Akademgorodok #=Stadtteil von Nowosibirsk",
+    "answer": "Академгородок"
+  },
+  {
+    "quest": "märchenhaft",
+    "answer": "ск**азочный\nск**азочная\nск**азочное\nск**азочные",
+    "details": "ск**азка #=Märchen"
+  },
+  {
+    "quest": "geheimnisvoll",
+    "answer": "заг**адочный\nзаг**адочная\nзаг**адочное\nзаг**адочные",
+    "details": "Saga"
+  }
+]

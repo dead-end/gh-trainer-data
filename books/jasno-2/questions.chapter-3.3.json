@@ -1,0 +1,143 @@
+[
+  {
+    "quest": "darstellen",
+    "answer": "изображ**ать #=uv.\nизобраз**ить #=v."
+  },
+  {
+    "quest": "Erstklässler*in*",
+    "answer": "первокл**ассница"
+  },
+  {
+    "quest": "sich setzen / hinsetzen",
+    "answer": "сесть #=v.\nстадиться #=uv.",
+    "details": "сесть за учебники #=anfangen zu lernen"
+  },
+  {
+    "quest": "tragen",
+    "answer": "нест**и #=uv. zielgerichtet \nнос**ить #=nicht zielgerichtet",
+    "details": "нос**ить\n(я) ношу\n(ты) носишь\n(он/она/оно) носит\n(мы) носим\n(вы) носите\n(они) носят\n\nнест**и\n(я) несу\n(ты) несёшь\n(он/она/оно) несёт\n(мы) несём\n(вы) несёте\n(они) несут"
+  },
+  {
+    "quest": "Schüler der 11. Klasse",
+    "answer": "одиннадцатикл**ассник"
+  },
+  {
+    "quest": "sich erinnern",
+    "answer": "п**омнить #=uv."
+  },
+  {
+    "quest": "Fußball-",
+    "answer": "футб**ольный",
+    "details": "футбольный матч"
+  },
+  {
+    "quest": "vergessen",
+    "answer": "заб**ыть #=v.\nзавыв**ать #=uv.",
+    "details": "забрать / забирать\n#=jmd. /etw. mitnehmen\nсобрать /собирать\n#=etw. sammeln"
+  },
+  {
+    "quest": "Gastfreundschaft",
+    "answer": "гостепри**имство"
+  },
+  {
+    "quest": "Austausch",
+    "answer": "обм**ен",
+    "details": "шк**ольный обм**ен #=Schüleraustausch"
+  },
+  {
+    "quest": "Coworking",
+    "answer": "ков**оркинг"
+  },
+  {
+    "quest": "Visagist",
+    "answer": "визаж**ист"
+  },
+  {
+    "quest": "Zahnarzt",
+    "answer": "врач-стомат**олог"
+  },
+  {
+    "quest": "Entwurfs Ingenieur",
+    "answer": "инжен**ер-проектир**овщик"
+  },
+  {
+    "quest": "Auditor\nBilanzprüfer",
+    "answer": "ауд**итор"
+  },
+  {
+    "quest": "Einkaufsmanager",
+    "answer": "м**енеджер по зак**упкам"
+  },
+  {
+    "quest": "Verkaufsmanager",
+    "answer": "м**енеджер по прод**ажам"
+  },
+  {
+    "quest": "Manager im Kundenservice",
+    "answer": "м**енеджер по раб**оте с кли**ентами"
+  },
+  {
+    "quest": "Virologe",
+    "answer": "врач-вирус**олог"
+  },
+  {
+    "quest": "Kassierer",
+    "answer": "продав**ец-касс**ир",
+    "details": "продавец #=Verkäufer"
+  },
+  {
+    "quest": "einen Beruf lernen",
+    "answer": "уч**иться на #=uv. +Akk.\nв**ыучиться на #=v."
+  },
+  {
+    "quest": "marginale Persönlichkeit",
+    "answer": "маргин**ал"
+  },
+  {
+    "quest": "Man lebt nur einmal.",
+    "answer": "Жизнь даётся  нам од**ин раз.",
+    "details": "дать #=geben"
+  },
+  {
+    "quest": "jmd. etw. verlieren",
+    "answer": "тер**ять #=uv.\nпотер**ять #=v."
+  },
+  {
+    "quest": "sich etw. merken / einprägen",
+    "answer": "зап**омнить #=v.\nзапомин**ать #=uv."
+  },
+  {
+    "quest": "Fach",
+    "answer": "предм**ет"
+  },
+  {
+    "quest": "Selbst Bildung",
+    "answer": "самообразов**ание"
+  },
+  {
+    "quest": "Nein, so macht man das nicht.",
+    "answer": "Нет, так дел**а не д**елаются."
+  },
+  {
+    "quest": "Tag der offenen Tür",
+    "answer": "день откр**ытых двер**ей"
+  },
+  {
+    "quest": "versprechen",
+    "answer": "обещ**ать #=uv.\nпообещ**ать #=v."
+  },
+  {
+    "quest": "Diplomarbeit",
+    "answer": "дипл**омная раб**ота"
+  },
+  {
+    "quest": "Hochschule",
+    "answer": "вуз",
+    "details": "в**ысшее уч**ебное завед**ение\nзавед**ение #=Anstalt"
+  },
+  {
+    "quest": "Fachhochschule",
+    "answer": "ссуз",
+    "details": "ср**еднее специ**альное уч**ебное завед**ение \nзавед**ение #=Anstalt"
+  }
+]

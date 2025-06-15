@@ -1,0 +1,143 @@
+[
+  {
+    "quest": "Workshop\nAtelier",
+    "answer": "мастерск**ая"
+  },
+  {
+    "quest": "logopädisch",
+    "answer": "логопед**ический"
+  },
+  {
+    "quest": "Minitheater",
+    "answer": "м**ини-те**атр"
+  },
+  {
+    "quest": "fortsetzen",
+    "answer": "прод**олжить #=v.\nпродолж**ать #=uv.",
+    "details": "долго #=lange"
+  },
+  {
+    "quest": "beginnen\nanfangen",
+    "answer": "начинать #=uv.\nначать #=v."
+  },
+  {
+    "quest": "hier=# Abschluss\nAusgang \nEnde",
+    "answer": "оконч**ание",
+    "details": "окончить #=abschliessen, absolvieren"
+  },
+  {
+    "quest": "Berufs-",
+    "answer": "профессион**альный",
+    "details": "профессион**альное уч**илище \nBerufsschul-"
+  },
+  {
+    "quest": "Schüler",
+    "answer": "учен**ик"
+  },
+  {
+    "quest": "hier=# Prüfung ablegen",
+    "answer": "сдать #=v.\nсдавать #=uv."
+  },
+  {
+    "quest": "Einheitliche staatliche Prüfung",
+    "answer": "ЕГЭ\nЕдиный Государственный экзамен"
+  },
+  {
+    "quest": "Examen",
+    "answer": "экз**амен"
+  },
+  {
+    "quest": "erfolgreich",
+    "answer": "усп**ешный",
+    "details": "успех #=Erfolg\nуд**ачный"
+  },
+  {
+    "quest": "Schulzeugnis",
+    "answer": "аттест**ат",
+    "details": "mittlerer Schulabschluss =#\nаттест**ат о п**олном ср**еднем образов**ании"
+  },
+  {
+    "quest": "spezialisiert \nergänzend\nvertiefend",
+    "answer": "специализ**ированный"
+  },
+  {
+    "quest": "spezialisiert \nberufsorientiert",
+    "answer": "профильный"
+  },
+  {
+    "quest": "Lyzeum",
+    "answer": "лиц**ей"
+  },
+  {
+    "quest": "privat",
+    "answer": "ч**астный",
+    "details": "ч**астная шк**ола\nчасть #=Teil"
+  },
+  {
+    "quest": "Fremdsprache",
+    "answer": "иностр**анный яз**ык"
+  },
+  {
+    "quest": "Ressource",
+    "answer": "рес**урс"
+  },
+  {
+    "quest": "staatlich",
+    "answer": "госуд**арственный"
+  },
+  {
+    "quest": "empfangen\nbegegnen\ntreffen",
+    "answer": "встречать #=uv.\nвстретить #=v."
+  },
+  {
+    "quest": "klingen\nerklingen \nertönen",
+    "answer": "звучать #=uv.\nпрозвучать #=v."
+  },
+  {
+    "quest": "Klingel\nGlocke",
+    "answer": "звонок",
+    "details": "последний звонок \nLetzte Klingelzeichen =#\nAbschlussfest=#"
+  },
+  {
+    "quest": "letzter",
+    "answer": "посл**едний"
+  },
+  {
+    "quest": "enden\nzu Ende gehen",
+    "answer": "заканчиваться #=uv.\nзакончится #=v."
+  },
+  {
+    "quest": "Schul-",
+    "answer": "шк**ольный"
+  },
+  {
+    "quest": "Oberstufenschüler",
+    "answer": "старшекл**ассник",
+    "details": "старше #Komp. von# старый"
+  },
+  {
+    "quest": "abschließen \nbeenden",
+    "answer": "закончить #=v.\nзаканчивать #=uv."
+  },
+  {
+    "quest": "hier=# Unterricht\nGewerbe\nJob",
+    "answer": "занятие"
+  },
+  {
+    "quest": "trainieren",
+    "answer": "тренир**овать"
+  },
+  {
+    "quest": "etw. vorhaben / wollen\nzusammenkommen",
+    "answer": "собираться #=uv.\nсобраться #=v.",
+    "details": "собрать #=sammeln, versammeln"
+  },
+  {
+    "quest": "Feier",
+    "answer": "пр**азднование"
+  },
+  {
+    "quest": "symbolisch",
+    "answer": "символ**ический"
+  }
+]
