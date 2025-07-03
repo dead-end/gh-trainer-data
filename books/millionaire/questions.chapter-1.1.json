@@ -116,5 +116,9 @@
   {
     "quest": "Rechnung\nKonto\nStand",
     "answer": "счёт"
+  },
+  {
+    "quest": "aussehen",
+    "answer": "в**ыглядеть #=uv."
   }
 ]

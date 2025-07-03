@@ -1,0 +1,32 @@
+[
+  {
+    "quest": "etw. beantworten\nverantwortlich sein",
+    "answer": "отвечать #=uv.\nответить #=v."
+  },
+  {
+    "quest": "eine lange Zeit sitzen",
+    "answer": "прос**идеть"
+  },
+  {
+    "quest": "sich ansehen\netw. durchsuchen",
+    "answer": "осмотр**еть"
+  },
+  {
+    "quest": "arbeits-",
+    "answer": "раб**очий",
+    "details": "раб**очее м**есто #=Arbeitsplatz"
+  },
+  {
+    "quest": "es schien, dass",
+    "answer": "каз**алось, что",
+    "details": "каз**аться #=scheinen"
+  },
+  {
+    "quest": "beenden\nvollenden",
+    "answer": "закончить #=v\nзаканчивать #=uv."
+  },
+  {
+    "quest": "via\nüber\nnach #=für Zeit",
+    "answer": "ч**ерез"
+  }
+]
