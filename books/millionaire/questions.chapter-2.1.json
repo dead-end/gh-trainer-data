@@ -68,7 +68,7 @@
   },
   {
     "quest": "schick",
-    "answer": "шик*арный"
+    "answer": "шик**арный"
   },
   {
     "quest": "nie",
@@ -88,7 +88,8 @@
   },
   {
     "quest": "unklar\nunverständlich, unklar",
-    "answer": "не**ясно\nнепон**ятно"
+    "answer": "не**ясно\nнепон**ятно",
+    "details": "пон**ять\nпоним**aть #=verstehen"
   },
   {
     "quest": "schmal",
@@ -100,15 +101,18 @@
   },
   {
     "quest": "erklären",
-    "answer": "объясн**ить"
+    "answer": "объясн**ить #=v\nобъясн**ять #=uv",
+    "details": "объясн**ение #=Erklärung"
   },
   {
     "quest": "Ölmagnat",
-    "answer": "нефт**яник"
+    "answer": "нефт**яник",
+    "details": "нефть #=Öl"
   },
   {
     "quest": "einladen",
-    "answer": "приглаш**ать \nприглас**ить"
+    "answer": "приглаш**ать \nприглас**ить",
+    "details": "приглашение #=Einladung"
   },
   {
     "quest": "verzeihen",
@@ -121,5 +125,9 @@
   {
     "quest": "plaudern\nsich unterhalten",
     "answer": "болт**ать"
+  },
+  {
+    "quest": "Lager\nBehälter",
+    "answer": "хран**илище"
   }
 ]
