@@ -109,15 +109,17 @@
   },
   {
     "quest": "passieren",
-    "answer": "случ**аться"
+    "answer": "случ**аться",
+    "details": "сл**у#ш#ать"
   },
   {
     "quest": "ankommen\nzu jemanden kommen",
     "answer": "прийт**и"
   },
   {
-    "quest": "kontrollieren",
-    "answer": "провер**ять"
+    "quest": "kontrollieren\nprüfen",
+    "answer": "проверить #=v. \nпроверять #=uv.",
+    "details": "верить #=uv. gauben"
   },
   {
     "quest": "auslösen\ntriggern",
