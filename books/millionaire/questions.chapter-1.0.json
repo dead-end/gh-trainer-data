@@ -66,7 +66,7 @@
     "details": "короче #=kurz, kurzum"
   },
   {
-    "quest": "etwas, ein wenig\nich glaube, mir scheint",
+    "quest": "etwas\nein wenig",
     "answer": "что-то"
   },
   {
@@ -75,7 +75,7 @@
     "details": "п**омнить #=sich erinnern"
   },
   {
-    "quest": "wählen (Telefon)",
+    "quest": "wählen",
     "answer": "набр**ать",
     "details": "бр**ать #=etwas nehmen\nв**ыбор #=Wahl"
   },
@@ -88,8 +88,8 @@
     "answer": "н**асморк"
   },
   {
-    "quest": "aufhören",
-    "answer": "конч**аться #=uv\nк**ончиться #=v"
+    "quest": "Kindheit",
+    "answer": "д**етство"
   },
   {
     "quest": "träumen",

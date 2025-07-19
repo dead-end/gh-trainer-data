@@ -1,0 +1,122 @@
+[
+  {
+    "quest": "festlich",
+    "answer": "пар**адный"
+  },
+  {
+    "quest": "kein",
+    "answer": "ни"
+  },
+  {
+    "quest": "Schornstein",
+    "answer": "труб**а"
+  },
+  {
+    "quest": "Rauch",
+    "answer": "дым"
+  },
+  {
+    "quest": "grau",
+    "answer": "серый"
+  },
+  {
+    "quest": "aufstehen \naufsteigen",
+    "answer": "подним**аться"
+  },
+  {
+    "quest": "laut",
+    "answer": "гр**омко\nгр**омкый"
+  },
+  {
+    "quest": "Tischen",
+    "answer": "ст**олик",
+    "details": "ст**ол #=Tisch"
+  },
+  {
+    "quest": "verhaftet",
+    "answer": "арестов**ать"
+  },
+  {
+    "quest": "Heft",
+    "answer": "тетр**адь"
+  },
+  {
+    "quest": "kontrollieren",
+    "answer": "проверять #=uv\nпроверить #=v"
+  },
+  {
+    "quest": "plötzlich",
+    "answer": "вдруг"
+  },
+  {
+    "quest": "herabsteigen",
+    "answer": "спуст**иться"
+  },
+  {
+    "quest": "Wacht",
+    "answer": "в**ахта"
+  },
+  {
+    "quest": "doch",
+    "answer": "ведь"
+  },
+  {
+    "quest": "laut\nvernehmbar",
+    "answer": "вслух"
+  },
+  {
+    "quest": "Reinigungskraft",
+    "answer": "уб**орщица"
+  },
+  {
+    "quest": "zahlen",
+    "answer": "платить"
+  },
+  {
+    "quest": "abergläubisch",
+    "answer": "суев**ерный"
+  },
+  {
+    "quest": "ein bisschen",
+    "answer": "немн**ожко"
+  },
+  {
+    "quest": "erröten",
+    "answer": "красн**еть"
+  },
+  {
+    "quest": "im Gegenteil\nwiederum",
+    "answer": "напр**отив"
+  },
+  {
+    "quest": "um etw. bitten \nzu etw. auffordern",
+    "answer": "попросить #=v\nпросить #=uv"
+  },
+  {
+    "quest": "versetzen \nverlegen",
+    "answer": "перевод**ить\nперевест**и",
+    "details": "переехать #=umziehen"
+  },
+  {
+    "quest": "Nichte",
+    "answer": "плем**янница"
+  },
+  {
+    "quest": "suchen",
+    "answer": "находить\nнайти\n\nя найду\nты найдёшь\nон / она / оно найдёт\nмы найдём\nвы найдёте\nони найдут",
+    "details": "он нашёл\nона нашла\nоно нашло\n\nони нашли"
+  },
+  {
+    "quest": "Seite",
+    "answer": "стран**ица",
+    "details": "сторона"
+  },
+  {
+    "quest": "bürgerlich",
+    "answer": "гражд**aнский"
+  },
+  {
+    "quest": "Wächterin",
+    "answer": "вахтёрша"
+  }
+]

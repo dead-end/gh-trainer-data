@@ -18,7 +18,7 @@
   {
     "quest": "Wächter",
     "answer": "охр**анник",
-    "details": "охранять #=beschützen"
+    "details": "охранять #=beschützen\nхранилище #=Lager, Behälter\nхранитель #=Betreuer, Bewahrer"
   },
   {
     "quest": "Glasfenster",
@@ -26,7 +26,8 @@
   },
   {
     "quest": "vorn\nvoraus",
-    "answer": "вперед**и"
+    "answer": "вперед**и",
+    "details": "перед #=vor"
   },
   {
     "quest": "Enfilade\nZimmerflucht",
@@ -65,7 +66,7 @@
     "answer": "забыв**ать #=uv.\nзаб**ыть #=v."
   },
   {
-    "quest": "man darf / soll nicht",
+    "quest": "man darf nicht\nman soll nicht",
     "answer": "нельз**я"
   },
   {
@@ -87,7 +88,7 @@
     "details": "(я) беру\n(ты) берёшь\n(он/она/оно) берёт\n(мы) берём\n(вы) берёте\n(они) берут"
   },
   {
-    "quest": "Bärt",
+    "quest": "Bart",
     "answer": "бор**одка",
     "details": "ус**ы"
   },
