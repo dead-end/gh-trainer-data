@@ -1,0 +1,49 @@
+[
+  {
+    "quest": "wieder",
+    "answer": "сн**ова"
+  },
+  {
+    "quest": "Puzzel",
+    "answer": "пазл"
+  },
+  {
+    "quest": "etw. vorhaben \netw. wollen",
+    "answer": "собир**аться\nсобр**аться",
+    "details": "я собираюсь путешествовать\n#=ich werde reisen"
+  },
+  {
+    "quest": "etw. betreiben\nsich beschäftigen",
+    "answer": "заним**аться\nзан**яться"
+  },
+  {
+    "quest": "sammeln",
+    "answer": "собир**ать\nсобр**ать",
+    "details": "бр**ать #=nehmen"
+  },
+  {
+    "quest": "passieren\ngeschehen",
+    "answer": "случ**аться\nслуч**иться"
+  },
+  {
+    "quest": "stehen bleiben \nbleiben",
+    "answer": "остав**аться\nост**аться"
+  },
+  {
+    "quest": "echt\nwahr",
+    "answer": "насто**ящий"
+  },
+  {
+    "quest": "ob",
+    "answer": "ли"
+  },
+  {
+    "quest": "Fälschung",
+    "answer": "подделка",
+    "details": "под #=unter, unterhalb, bei"
+  },
+  {
+    "quest": "obwohl\ntrotzdem",
+    "answer": "хот**я"
+  }
+]
