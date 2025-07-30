@@ -10,7 +10,7 @@
   {
     "quest": "etw. vorhaben \netw. wollen",
     "answer": "собир**аться\nсобр**аться",
-    "details": "я собираюсь путешествовать\n#=ich werde reisen"
+    "details": "я собираюсь путешествовать\n#=ich werde reisen\nсовершить путешествие \n#=eine Reise machen"
   },
   {
     "quest": "etw. betreiben\nsich beschäftigen",
@@ -83,7 +83,8 @@
   },
   {
     "quest": "verzeihen \nvergeben",
-    "answer": "прост**ить\nпрощ**ать"
+    "answer": "прост**ить\nпрощ**ать",
+    "details": "Простите меня\n#=Verzeichen Sie mir"
   },
   {
     "quest": "etw. treffen\nhinkommen",
@@ -99,7 +100,7 @@
   },
   {
     "quest": "Ding\nSache\nhier=# Fachgebiet",
-    "answer": "предм**eт"
+    "answer": "предм**ет"
   },
   {
     "quest": "entzückend \nreizend",
