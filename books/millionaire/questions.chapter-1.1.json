@@ -1,4 +1,14 @@
 [
+  { "quest": "Uhr", "answer": "час**ы" },
+  { "quest": "Bildschirm", "answer": "экр**ан" },
+  { "quest": "Maus klicken", "answer": "кл**икнуть м**ышкой" },
+  { "quest": "Klopfen", "answer": "стук" },
+  {
+    "quest": "betreten",
+    "answer": "войт**и\nвходить",
+    "details": "вход #=Eingang\nв**ыход #=Ausgang"
+  },
+  { "quest": "(jemanden) erschrecken", "answer": "испуг**ать" },
   {
     "quest": "anstimmen",
     "answer": "зап**еть #=v",
